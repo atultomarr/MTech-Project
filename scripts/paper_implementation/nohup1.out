@@ -1,0 +1,6028 @@
+Processing test subject 2
+
+Processing 20 training trials from 14 subjects...
+
+
+
+Training subjects:   0%|          | 0/14 [00:00<?, ?it/s][A[A
+
+
+
+Subject 3 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 3 trials:   5%|▌         | 1/20 [00:09<02:58,  9.39s/it][A[A[A
+
+
+
+Subject 3 trials:  10%|█         | 2/20 [00:18<02:45,  9.20s/it][A[A[A
+
+
+
+Subject 3 trials:  15%|█▌        | 3/20 [00:27<02:34,  9.08s/it][A[A[A
+
+
+
+Subject 3 trials:  20%|██        | 4/20 [00:37<02:30,  9.40s/it][A[A[A
+
+
+
+Subject 3 trials:  25%|██▌       | 5/20 [00:46<02:20,  9.38s/it][A[A[A
+
+
+
+Subject 3 trials:  30%|███       | 6/20 [00:55<02:09,  9.23s/it][A[A[A
+
+
+
+Subject 3 trials:  35%|███▌      | 7/20 [01:04<02:00,  9.25s/it][A[A[A
+
+
+
+Subject 3 trials:  40%|████      | 8/20 [01:14<01:53,  9.45s/it][A[A[A
+
+
+
+Subject 3 trials:  45%|████▌     | 9/20 [01:24<01:43,  9.41s/it][A[A[A
+
+
+
+Subject 3 trials:  50%|█████     | 10/20 [01:33<01:34,  9.48s/it][A[A[A
+
+
+
+Subject 3 trials:  55%|█████▌    | 11/20 [01:42<01:23,  9.31s/it][A[A[A
+
+
+
+Subject 3 trials:  60%|██████    | 12/20 [01:51<01:13,  9.15s/it][A[A[A
+
+
+
+Subject 3 trials:  65%|██████▌   | 13/20 [02:00<01:04,  9.21s/it][A[A[A
+
+
+
+Subject 3 trials:  70%|███████   | 14/20 [02:09<00:54,  9.15s/it][A[A[A
+
+
+
+Subject 3 trials:  75%|███████▌  | 15/20 [02:18<00:45,  9.12s/it][A[A[A
+
+
+
+Subject 3 trials:  80%|████████  | 16/20 [02:27<00:36,  9.09s/it][A[A[A
+
+
+
+Subject 3 trials:  85%|████████▌ | 17/20 [02:36<00:26,  8.99s/it][A[A[A
+
+
+
+Subject 3 trials:  90%|█████████ | 18/20 [02:45<00:17,  8.95s/it][A[A[A
+
+
+
+Subject 3 trials:  95%|█████████▌| 19/20 [02:54<00:08,  8.90s/it][A[A[A
+
+
+
+Subject 3 trials: 100%|██████████| 20/20 [03:04<00:00,  9.24s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:   7%|▋         | 1/14 [03:04<39:55, 184.27s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 4 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 4 trials:   5%|▌         | 1/20 [00:09<03:04,  9.73s/it][A[A[A
+
+
+
+Subject 4 trials:  10%|█         | 2/20 [00:19<02:57,  9.87s/it][A[A[A
+
+
+
+Subject 4 trials:  15%|█▌        | 3/20 [00:30<02:57, 10.44s/it][A[A[A
+
+
+
+Subject 4 trials:  20%|██        | 4/20 [00:40<02:43, 10.21s/it][A[A[A
+
+
+
+Subject 4 trials:  25%|██▌       | 5/20 [00:50<02:28,  9.91s/it][A[A[A
+
+
+
+Subject 4 trials:  30%|███       | 6/20 [00:59<02:17,  9.82s/it][A[A[A
+
+
+
+Subject 4 trials:  35%|███▌      | 7/20 [01:09<02:06,  9.73s/it][A[A[A
+
+
+
+Subject 4 trials:  40%|████      | 8/20 [01:19<01:57,  9.81s/it][A[A[A
+
+
+
+Subject 4 trials:  45%|████▌     | 9/20 [01:29<01:48,  9.84s/it][A[A[A
+
+
+
+Subject 4 trials:  50%|█████     | 10/20 [01:39<01:39,  9.97s/it][A[A[A
+
+
+
+Subject 4 trials:  55%|█████▌    | 11/20 [01:49<01:28,  9.89s/it][A[A[A
+
+
+
+Subject 4 trials:  60%|██████    | 12/20 [01:58<01:18,  9.87s/it][A[A[A
+
+
+
+Subject 4 trials:  65%|██████▌   | 13/20 [02:08<01:09,  9.88s/it][A[A[A
+
+
+
+Subject 4 trials:  70%|███████   | 14/20 [02:18<00:59,  9.92s/it][A[A[A
+
+
+
+Subject 4 trials:  75%|███████▌  | 15/20 [02:29<00:50, 10.03s/it][A[A[A
+
+
+
+Subject 4 trials:  80%|████████  | 16/20 [02:39<00:40, 10.05s/it][A[A[A
+
+
+
+Subject 4 trials:  85%|████████▌ | 17/20 [02:48<00:29,  9.86s/it][A[A[A
+
+
+
+Subject 4 trials:  90%|█████████ | 18/20 [02:58<00:19,  9.85s/it][A[A[A
+
+
+
+Subject 4 trials:  95%|█████████▌| 19/20 [03:08<00:09,  9.89s/it][A[A[A
+
+
+
+Subject 4 trials: 100%|██████████| 20/20 [03:18<00:00,  9.90s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  14%|█▍        | 2/14 [06:22<38:30, 192.55s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 5 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 5 trials:   5%|▌         | 1/20 [00:12<03:54, 12.35s/it][A[A[A
+
+
+
+Subject 5 trials:  10%|█         | 2/20 [00:22<03:21, 11.18s/it][A[A[A
+
+
+
+Subject 5 trials:  15%|█▌        | 3/20 [00:33<03:08, 11.10s/it][A[A[A
+
+
+
+Subject 5 trials:  20%|██        | 4/20 [00:43<02:50, 10.67s/it][A[A[A
+
+
+
+Subject 5 trials:  25%|██▌       | 5/20 [00:54<02:41, 10.73s/it][A[A[A
+
+
+
+Subject 5 trials:  30%|███       | 6/20 [01:06<02:35, 11.12s/it][A[A[A
+
+
+
+Subject 5 trials:  35%|███▌      | 7/20 [01:19<02:33, 11.82s/it][A[A[A
+
+
+
+Subject 5 trials:  40%|████      | 8/20 [01:30<02:17, 11.42s/it][A[A[A
+
+
+
+Subject 5 trials:  45%|████▌     | 9/20 [01:41<02:05, 11.44s/it][A[A[A
+
+
+
+Subject 5 trials:  50%|█████     | 10/20 [01:54<01:57, 11.77s/it][A[A[A
+
+
+
+Subject 5 trials:  55%|█████▌    | 11/20 [02:04<01:42, 11.34s/it][A[A[A
+
+
+
+Subject 5 trials:  60%|██████    | 12/20 [02:15<01:29, 11.17s/it][A[A[A
+
+
+
+Subject 5 trials:  65%|██████▌   | 13/20 [02:25<01:16, 10.90s/it][A[A[A
+
+
+
+Subject 5 trials:  70%|███████   | 14/20 [02:36<01:04, 10.75s/it][A[A[A
+
+
+
+Subject 5 trials:  75%|███████▌  | 15/20 [02:46<00:53, 10.72s/it][A[A[A
+
+
+
+Subject 5 trials:  80%|████████  | 16/20 [02:57<00:42, 10.61s/it][A[A[A
+
+
+
+Subject 5 trials:  85%|████████▌ | 17/20 [03:07<00:31, 10.55s/it][A[A[A
+
+
+
+Subject 5 trials:  90%|█████████ | 18/20 [03:17<00:20, 10.33s/it][A[A[A
+
+
+
+Subject 5 trials:  95%|█████████▌| 19/20 [03:27<00:10, 10.36s/it][A[A[A
+
+
+
+Subject 5 trials: 100%|██████████| 20/20 [03:38<00:00, 10.42s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  21%|██▏       | 3/14 [10:00<37:27, 204.32s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 6 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 6 trials:   5%|▌         | 1/20 [00:11<03:37, 11.44s/it][A[A[A
+
+
+
+Subject 6 trials:  10%|█         | 2/20 [00:22<03:25, 11.40s/it][A[A[A
+
+
+
+Subject 6 trials:  15%|█▌        | 3/20 [00:34<03:16, 11.56s/it][A[A[A
+
+
+
+Subject 6 trials:  20%|██        | 4/20 [00:46<03:04, 11.52s/it][A[A[A
+
+
+
+Subject 6 trials:  25%|██▌       | 5/20 [00:57<02:52, 11.49s/it][A[A[A
+
+
+
+Subject 6 trials:  30%|███       | 6/20 [01:07<02:34, 11.04s/it][A[A[A
+
+
+
+Subject 6 trials:  35%|███▌      | 7/20 [01:19<02:25, 11.18s/it][A[A[A
+
+
+
+Subject 6 trials:  40%|████      | 8/20 [01:28<02:07, 10.67s/it][A[A[A
+
+
+
+Subject 6 trials:  45%|████▌     | 9/20 [01:39<01:56, 10.60s/it][A[A[A
+
+
+
+Subject 6 trials:  50%|█████     | 10/20 [01:49<01:44, 10.48s/it][A[A[A
+
+
+
+Subject 6 trials:  55%|█████▌    | 11/20 [01:59<01:32, 10.28s/it][A[A[A
+
+
+
+Subject 6 trials:  60%|██████    | 12/20 [02:09<01:21, 10.19s/it][A[A[A
+
+
+
+Subject 6 trials:  65%|██████▌   | 13/20 [02:19<01:11, 10.18s/it][A[A[A
+
+
+
+Subject 6 trials:  70%|███████   | 14/20 [02:29<01:00, 10.05s/it][A[A[A
+
+
+
+Subject 6 trials:  75%|███████▌  | 15/20 [02:38<00:49,  9.87s/it][A[A[A
+
+
+
+Subject 6 trials:  80%|████████  | 16/20 [02:47<00:38,  9.74s/it][A[A[A
+
+
+
+Subject 6 trials:  85%|████████▌ | 17/20 [02:57<00:28,  9.66s/it][A[A[A
+
+
+
+Subject 6 trials:  90%|█████████ | 18/20 [03:07<00:19,  9.68s/it][A[A[A
+
+
+
+Subject 6 trials:  95%|█████████▌| 19/20 [03:16<00:09,  9.68s/it][A[A[A
+
+
+
+Subject 6 trials: 100%|██████████| 20/20 [03:26<00:00,  9.64s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  29%|██▊       | 4/14 [13:27<34:11, 205.13s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 7 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 7 trials:   5%|▌         | 1/20 [00:16<05:07, 16.20s/it][A[A[A
+
+
+
+Subject 7 trials:  10%|█         | 2/20 [00:31<04:39, 15.53s/it][A[A[A
+
+
+
+Subject 7 trials:  15%|█▌        | 3/20 [00:47<04:29, 15.83s/it][A[A[A
+
+
+
+Subject 7 trials:  20%|██        | 4/20 [01:02<04:06, 15.43s/it][A[A[A
+
+
+
+Subject 7 trials:  25%|██▌       | 5/20 [01:17<03:52, 15.50s/it][A[A[A
+
+
+
+Subject 7 trials:  30%|███       | 6/20 [01:30<03:25, 14.68s/it][A[A[A
+
+
+
+Subject 7 trials:  35%|███▌      | 7/20 [01:43<02:59, 13.84s/it][A[A[A
+
+
+
+Subject 7 trials:  40%|████      | 8/20 [01:53<02:33, 12.81s/it][A[A[A
+
+
+
+Subject 7 trials:  45%|████▌     | 9/20 [02:05<02:17, 12.51s/it][A[A[A
+
+
+
+Subject 7 trials:  50%|█████     | 10/20 [02:18<02:06, 12.70s/it][A[A[A
+
+
+
+Subject 7 trials:  55%|█████▌    | 11/20 [02:30<01:53, 12.56s/it][A[A[A
+
+
+
+Subject 7 trials:  60%|██████    | 12/20 [02:43<01:40, 12.61s/it][A[A[A
+
+
+
+Subject 7 trials:  65%|██████▌   | 13/20 [02:54<01:24, 12.12s/it][A[A[A
+
+
+
+Subject 7 trials:  70%|███████   | 14/20 [03:06<01:12, 12.08s/it][A[A[A
+
+
+
+Subject 7 trials:  75%|███████▌  | 15/20 [03:17<00:57, 11.57s/it][A[A[A
+
+
+
+Subject 7 trials:  80%|████████  | 16/20 [03:27<00:45, 11.29s/it][A[A[A
+
+
+
+Subject 7 trials:  85%|████████▌ | 17/20 [03:39<00:34, 11.41s/it][A[A[A
+
+
+
+Subject 7 trials:  90%|█████████ | 18/20 [03:49<00:22, 11.11s/it][A[A[A
+
+
+
+Subject 7 trials:  95%|█████████▌| 19/20 [03:59<00:10, 10.77s/it][A[A[A
+
+
+
+Subject 7 trials: 100%|██████████| 20/20 [04:10<00:00, 10.92s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  36%|███▌      | 5/14 [17:38<33:14, 221.67s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 8 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 8 trials:   5%|▌         | 1/20 [00:13<04:12, 13.29s/it][A[A[A
+
+
+
+Subject 8 trials:  10%|█         | 2/20 [00:24<03:41, 12.28s/it][A[A[A
+
+
+
+Subject 8 trials:  15%|█▌        | 3/20 [00:35<03:14, 11.44s/it][A[A[A
+
+
+
+Subject 8 trials:  20%|██        | 4/20 [00:46<02:59, 11.19s/it][A[A[A
+
+
+
+Subject 8 trials:  25%|██▌       | 5/20 [00:57<02:51, 11.42s/it][A[A[A
+
+
+
+Subject 8 trials:  30%|███       | 6/20 [01:08<02:37, 11.28s/it][A[A[A
+
+
+
+Subject 8 trials:  35%|███▌      | 7/20 [01:19<02:23, 11.03s/it][A[A[A
+
+
+
+Subject 8 trials:  40%|████      | 8/20 [01:29<02:09, 10.79s/it][A[A[A
+
+
+
+Subject 8 trials:  45%|████▌     | 9/20 [01:40<01:57, 10.68s/it][A[A[A
+
+
+
+Subject 8 trials:  50%|█████     | 10/20 [01:51<01:47, 10.77s/it][A[A[A
+
+
+
+Subject 8 trials:  55%|█████▌    | 11/20 [02:01<01:36, 10.71s/it][A[A[A
+
+
+
+Subject 8 trials:  60%|██████    | 12/20 [02:12<01:25, 10.70s/it][A[A[A
+
+
+
+Subject 8 trials:  65%|██████▌   | 13/20 [02:23<01:14, 10.70s/it][A[A[A
+
+
+
+Subject 8 trials:  70%|███████   | 14/20 [02:34<01:04, 10.79s/it][A[A[A
+
+
+
+Subject 8 trials:  75%|███████▌  | 15/20 [02:45<00:54, 10.86s/it][A[A[A
+
+
+
+Subject 8 trials:  80%|████████  | 16/20 [02:55<00:43, 10.78s/it][A[A[A
+
+
+
+Subject 8 trials:  85%|████████▌ | 17/20 [03:06<00:32, 10.85s/it][A[A[A
+
+
+
+Subject 8 trials:  90%|█████████ | 18/20 [03:17<00:21, 10.73s/it][A[A[A
+
+
+
+Subject 8 trials:  95%|█████████▌| 19/20 [03:29<00:11, 11.09s/it][A[A[A
+
+
+
+Subject 8 trials: 100%|██████████| 20/20 [03:39<00:00, 10.81s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  43%|████▎     | 6/14 [21:17<29:26, 220.85s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 9 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 9 trials:   5%|▌         | 1/20 [00:09<03:02,  9.60s/it][A[A[A
+
+
+
+Subject 9 trials:  10%|█         | 2/20 [00:19<02:51,  9.52s/it][A[A[A
+
+
+
+Subject 9 trials:  15%|█▌        | 3/20 [00:28<02:44,  9.68s/it][A[A[A
+
+
+
+Subject 9 trials:  20%|██        | 4/20 [00:38<02:35,  9.70s/it][A[A[A
+
+
+
+Subject 9 trials:  25%|██▌       | 5/20 [00:49<02:29,  9.99s/it][A[A[A
+
+
+
+Subject 9 trials:  30%|███       | 6/20 [00:59<02:20, 10.03s/it][A[A[A
+
+
+
+Subject 9 trials:  35%|███▌      | 7/20 [01:09<02:11, 10.14s/it][A[A[A
+
+
+
+Subject 9 trials:  40%|████      | 8/20 [01:19<01:59, 10.00s/it][A[A[A
+
+
+
+Subject 9 trials:  45%|████▌     | 9/20 [01:29<01:49,  9.95s/it][A[A[A
+
+
+
+Subject 9 trials:  50%|█████     | 10/20 [01:38<01:37,  9.79s/it][A[A[A
+
+
+
+Subject 9 trials:  55%|█████▌    | 11/20 [01:48<01:28,  9.85s/it][A[A[A
+
+
+
+Subject 9 trials:  60%|██████    | 12/20 [01:58<01:20, 10.01s/it][A[A[A
+
+
+
+Subject 9 trials:  65%|██████▌   | 13/20 [02:08<01:09,  9.93s/it][A[A[A
+
+
+
+Subject 9 trials:  70%|███████   | 14/20 [02:18<00:59,  9.84s/it][A[A[A
+
+
+
+Subject 9 trials:  75%|███████▌  | 15/20 [02:28<00:49,  9.80s/it][A[A[A
+
+
+
+Subject 9 trials:  80%|████████  | 16/20 [02:37<00:39,  9.76s/it][A[A[A
+
+
+
+Subject 9 trials:  85%|████████▌ | 17/20 [02:47<00:29,  9.73s/it][A[A[A
+
+
+
+Subject 9 trials:  90%|█████████ | 18/20 [02:57<00:19,  9.71s/it][A[A[A
+
+
+
+Subject 9 trials:  95%|█████████▌| 19/20 [03:07<00:09,  9.82s/it][A[A[A
+
+
+
+Subject 9 trials: 100%|██████████| 20/20 [03:16<00:00,  9.72s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  50%|█████     | 7/14 [24:34<24:50, 212.93s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 10 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 10 trials:   5%|▌         | 1/20 [00:12<03:58, 12.53s/it][A[A[A
+
+
+
+Subject 10 trials:  10%|█         | 2/20 [00:23<03:29, 11.62s/it][A[A[A
+
+
+
+Subject 10 trials:  15%|█▌        | 3/20 [00:36<03:26, 12.13s/it][A[A[A
+
+
+
+Subject 10 trials:  20%|██        | 4/20 [00:48<03:12, 12.03s/it][A[A[A
+
+
+
+Subject 10 trials:  25%|██▌       | 5/20 [00:59<02:56, 11.78s/it][A[A[A
+
+
+
+Subject 10 trials:  30%|███       | 6/20 [01:10<02:41, 11.51s/it][A[A[A
+
+
+
+Subject 10 trials:  35%|███▌      | 7/20 [01:22<02:33, 11.80s/it][A[A[A
+
+
+
+Subject 10 trials:  40%|████      | 8/20 [01:33<02:16, 11.36s/it][A[A[A
+
+
+
+Subject 10 trials:  45%|████▌     | 9/20 [01:44<02:04, 11.31s/it][A[A[A
+
+
+
+Subject 10 trials:  50%|█████     | 10/20 [01:54<01:49, 10.94s/it][A[A[A
+
+
+
+Subject 10 trials:  55%|█████▌    | 11/20 [02:05<01:37, 10.88s/it][A[A[A
+
+
+
+Subject 10 trials:  60%|██████    | 12/20 [02:17<01:29, 11.19s/it][A[A[A
+
+
+
+Subject 10 trials:  65%|██████▌   | 13/20 [02:28<01:17, 11.14s/it][A[A[A
+
+
+
+Subject 10 trials:  70%|███████   | 14/20 [02:38<01:06, 11.01s/it][A[A[A
+
+
+
+Subject 10 trials:  75%|███████▌  | 15/20 [02:49<00:54, 10.94s/it][A[A[A
+
+
+
+Subject 10 trials:  80%|████████  | 16/20 [03:01<00:45, 11.25s/it][A[A[A
+
+
+
+Subject 10 trials:  85%|████████▌ | 17/20 [03:11<00:32, 10.96s/it][A[A[A
+
+
+
+Subject 10 trials:  90%|█████████ | 18/20 [03:23<00:21, 10.99s/it][A[A[A
+
+
+
+Subject 10 trials:  95%|█████████▌| 19/20 [03:34<00:11, 11.09s/it][A[A[A
+
+
+
+Subject 10 trials: 100%|██████████| 20/20 [03:46<00:00, 11.41s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  57%|█████▋    | 8/14 [28:20<21:43, 217.26s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 11 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 11 trials:   5%|▌         | 1/20 [00:10<03:16, 10.33s/it][A[A[A
+
+
+
+Subject 11 trials:  10%|█         | 2/20 [00:19<02:58,  9.94s/it][A[A[A
+
+
+
+Subject 11 trials:  15%|█▌        | 3/20 [00:29<02:42,  9.55s/it][A[A[A
+
+
+
+Subject 11 trials:  20%|██        | 4/20 [00:38<02:33,  9.62s/it][A[A[A
+
+
+
+Subject 11 trials:  25%|██▌       | 5/20 [00:49<02:29,  9.98s/it][A[A[A
+
+
+
+Subject 11 trials:  30%|███       | 6/20 [00:59<02:19,  9.96s/it][A[A[A
+
+
+
+Subject 11 trials:  35%|███▌      | 7/20 [01:09<02:09,  9.92s/it][A[A[A
+
+
+
+Subject 11 trials:  40%|████      | 8/20 [01:18<01:58,  9.87s/it][A[A[A
+
+
+
+Subject 11 trials:  45%|████▌     | 9/20 [01:29<01:50, 10.06s/it][A[A[A
+
+
+
+Subject 11 trials:  50%|█████     | 10/20 [01:39<01:41, 10.18s/it][A[A[A
+
+
+
+Subject 11 trials:  55%|█████▌    | 11/20 [01:49<01:29, 10.00s/it][A[A[A
+
+
+
+Subject 11 trials:  60%|██████    | 12/20 [01:59<01:20, 10.10s/it][A[A[A
+
+
+
+Subject 11 trials:  65%|██████▌   | 13/20 [02:10<01:11, 10.27s/it][A[A[A
+
+
+
+Subject 11 trials:  70%|███████   | 14/20 [02:19<01:00, 10.03s/it][A[A[A
+
+
+
+Subject 11 trials:  75%|███████▌  | 15/20 [02:30<00:50, 10.19s/it][A[A[A
+
+
+
+Subject 11 trials:  80%|████████  | 16/20 [02:40<00:40, 10.10s/it][A[A[A
+
+
+
+Subject 11 trials:  85%|████████▌ | 17/20 [02:50<00:29,  9.97s/it][A[A[A
+
+
+
+Subject 11 trials:  90%|█████████ | 18/20 [02:59<00:19,  9.84s/it][A[A[A
+
+
+
+Subject 11 trials:  95%|█████████▌| 19/20 [03:09<00:09,  9.81s/it][A[A[A
+
+
+
+Subject 11 trials: 100%|██████████| 20/20 [03:18<00:00,  9.66s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  64%|██████▍   | 9/14 [31:39<17:37, 211.44s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 12 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 12 trials:   5%|▌         | 1/20 [00:13<04:11, 13.22s/it][A[A[A
+
+
+
+Subject 12 trials:  10%|█         | 2/20 [00:26<03:56, 13.14s/it][A[A[A
+
+
+
+Subject 12 trials:  15%|█▌        | 3/20 [00:38<03:36, 12.74s/it][A[A[A
+
+
+
+Subject 12 trials:  20%|██        | 4/20 [00:49<03:10, 11.93s/it][A[A[A
+
+
+
+Subject 12 trials:  25%|██▌       | 5/20 [00:58<02:46, 11.09s/it][A[A[A
+
+
+
+Subject 12 trials:  30%|███       | 6/20 [01:08<02:28, 10.64s/it][A[A[A
+
+
+
+Subject 12 trials:  35%|███▌      | 7/20 [01:18<02:14, 10.38s/it][A[A[A
+
+
+
+Subject 12 trials:  40%|████      | 8/20 [01:28<02:01, 10.13s/it][A[A[A
+
+
+
+Subject 12 trials:  45%|████▌     | 9/20 [01:37<01:50, 10.03s/it][A[A[A
+
+
+
+Subject 12 trials:  50%|█████     | 10/20 [01:47<01:39,  9.97s/it][A[A[A
+
+
+
+Subject 12 trials:  55%|█████▌    | 11/20 [01:56<01:26,  9.66s/it][A[A[A
+
+
+
+Subject 12 trials:  60%|██████    | 12/20 [02:05<01:15,  9.49s/it][A[A[A
+
+
+
+Subject 12 trials:  65%|██████▌   | 13/20 [02:14<01:05,  9.30s/it][A[A[A
+
+
+
+Subject 12 trials:  70%|███████   | 14/20 [02:24<00:57,  9.52s/it][A[A[A
+
+
+
+Subject 12 trials:  75%|███████▌  | 15/20 [02:34<00:47,  9.54s/it][A[A[A
+
+
+
+Subject 12 trials:  80%|████████  | 16/20 [02:43<00:38,  9.50s/it][A[A[A
+
+
+
+Subject 12 trials:  85%|████████▌ | 17/20 [02:53<00:28,  9.47s/it][A[A[A
+
+
+
+Subject 12 trials:  90%|█████████ | 18/20 [03:02<00:18,  9.45s/it][A[A[A
+
+
+
+Subject 12 trials:  95%|█████████▌| 19/20 [03:11<00:09,  9.43s/it][A[A[A
+
+
+
+Subject 12 trials: 100%|██████████| 20/20 [03:21<00:00,  9.41s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  71%|███████▏  | 10/14 [35:00<13:53, 208.28s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 13 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 13 trials:   5%|▌         | 1/20 [00:13<04:07, 13.05s/it][A[A[A
+
+
+
+Subject 13 trials:  10%|█         | 2/20 [00:25<03:49, 12.76s/it][A[A[A
+
+
+
+Subject 13 trials:  15%|█▌        | 3/20 [00:36<03:24, 12.00s/it][A[A[A
+
+
+
+Subject 13 trials:  20%|██        | 4/20 [00:48<03:08, 11.75s/it][A[A[A
+
+
+
+Subject 13 trials:  25%|██▌       | 5/20 [00:58<02:46, 11.13s/it][A[A[A
+
+
+
+Subject 13 trials:  30%|███       | 6/20 [01:08<02:32, 10.93s/it][A[A[A
+
+
+
+Subject 13 trials:  35%|███▌      | 7/20 [01:18<02:18, 10.67s/it][A[A[A
+
+
+
+Subject 13 trials:  40%|████      | 8/20 [01:29<02:08, 10.68s/it][A[A[A
+
+
+
+Subject 13 trials:  45%|████▌     | 9/20 [01:39<01:55, 10.53s/it][A[A[A
+
+
+
+Subject 13 trials:  50%|█████     | 10/20 [01:49<01:44, 10.45s/it][A[A[A
+
+
+
+Subject 13 trials:  55%|█████▌    | 11/20 [01:59<01:32, 10.31s/it][A[A[A
+
+
+
+Subject 13 trials:  60%|██████    | 12/20 [02:09<01:20, 10.01s/it][A[A[A
+
+
+
+Subject 13 trials:  65%|██████▌   | 13/20 [02:19<01:10, 10.01s/it][A[A[A
+
+
+
+Subject 13 trials:  70%|███████   | 14/20 [02:29<01:00, 10.08s/it][A[A[A
+
+
+
+Subject 13 trials:  75%|███████▌  | 15/20 [02:40<00:51, 10.21s/it][A[A[A
+
+
+
+Subject 13 trials:  80%|████████  | 16/20 [02:50<00:41, 10.26s/it][A[A[A
+
+
+
+Subject 13 trials:  85%|████████▌ | 17/20 [03:00<00:31, 10.36s/it][A[A[A
+
+
+
+Subject 13 trials:  90%|█████████ | 18/20 [03:11<00:20, 10.34s/it][A[A[A
+
+
+
+Subject 13 trials:  95%|█████████▌| 19/20 [03:21<00:10, 10.25s/it][A[A[A
+
+
+
+Subject 13 trials: 100%|██████████| 20/20 [03:31<00:00, 10.24s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  79%|███████▊  | 11/14 [38:32<10:27, 209.28s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 14 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 14 trials:   5%|▌         | 1/20 [00:09<02:55,  9.23s/it][A[A[A
+
+
+
+Subject 14 trials:  10%|█         | 2/20 [00:19<02:52,  9.59s/it][A[A[A
+
+
+
+Subject 14 trials:  15%|█▌        | 3/20 [00:28<02:43,  9.63s/it][A[A[A
+
+
+
+Subject 14 trials:  20%|██        | 4/20 [00:38<02:33,  9.60s/it][A[A[A
+
+
+
+Subject 14 trials:  25%|██▌       | 5/20 [00:47<02:24,  9.60s/it][A[A[A
+
+
+
+Subject 14 trials:  30%|███       | 6/20 [00:57<02:15,  9.68s/it][A[A[A
+
+
+
+Subject 14 trials:  35%|███▌      | 7/20 [01:07<02:05,  9.63s/it][A[A[A
+
+
+
+Subject 14 trials:  40%|████      | 8/20 [01:17<01:57,  9.76s/it][A[A[A
+
+
+
+Subject 14 trials:  45%|████▌     | 9/20 [01:27<01:47,  9.76s/it][A[A[A
+
+
+
+Subject 14 trials:  50%|█████     | 10/20 [01:37<01:38,  9.89s/it][A[A[A
+
+
+
+Subject 14 trials:  55%|█████▌    | 11/20 [01:47<01:30, 10.00s/it][A[A[A
+
+
+
+Subject 14 trials:  60%|██████    | 12/20 [01:57<01:19,  9.89s/it][A[A[A
+
+
+
+Subject 14 trials:  65%|██████▌   | 13/20 [02:07<01:09,  9.93s/it][A[A[A
+
+
+
+Subject 14 trials:  70%|███████   | 14/20 [02:17<00:59,  9.91s/it][A[A[A
+
+
+
+Subject 14 trials:  75%|███████▌  | 15/20 [02:26<00:48,  9.76s/it][A[A[A
+
+
+
+Subject 14 trials:  80%|████████  | 16/20 [02:36<00:39,  9.84s/it][A[A[A
+
+
+
+Subject 14 trials:  85%|████████▌ | 17/20 [02:46<00:29,  9.86s/it][A[A[A
+
+
+
+Subject 14 trials:  90%|█████████ | 18/20 [02:56<00:19,  9.91s/it][A[A[A
+
+
+
+Subject 14 trials:  95%|█████████▌| 19/20 [03:06<00:10, 10.10s/it][A[A[A
+
+
+
+Subject 14 trials: 100%|██████████| 20/20 [03:16<00:00,  9.91s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  86%|████████▌ | 12/14 [41:48<06:50, 205.36s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 15 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 15 trials:   5%|▌         | 1/20 [00:09<03:02,  9.60s/it][A[A[A
+
+
+
+Subject 15 trials:  10%|█         | 2/20 [00:19<02:59,  9.97s/it][A[A[A
+
+
+
+Subject 15 trials:  15%|█▌        | 3/20 [00:30<02:51, 10.10s/it][A[A[A
+
+
+
+Subject 15 trials:  20%|██        | 4/20 [00:40<02:40, 10.05s/it][A[A[A
+
+
+
+Subject 15 trials:  25%|██▌       | 5/20 [00:51<02:35, 10.38s/it][A[A[A
+
+
+
+Subject 15 trials:  30%|███       | 6/20 [01:00<02:21, 10.12s/it][A[A[A
+
+
+
+Subject 15 trials:  35%|███▌      | 7/20 [01:10<02:09,  9.98s/it][A[A[A
+
+
+
+Subject 15 trials:  40%|████      | 8/20 [01:20<01:59,  9.97s/it][A[A[A
+
+
+
+Subject 15 trials:  45%|████▌     | 9/20 [01:29<01:46,  9.72s/it][A[A[A
+
+
+
+Subject 15 trials:  50%|█████     | 10/20 [01:39<01:37,  9.76s/it][A[A[A
+
+
+
+Subject 15 trials:  55%|█████▌    | 11/20 [01:48<01:26,  9.66s/it][A[A[A
+
+
+
+Subject 15 trials:  60%|██████    | 12/20 [01:58<01:16,  9.59s/it][A[A[A
+
+
+
+Subject 15 trials:  65%|██████▌   | 13/20 [02:07<01:06,  9.52s/it][A[A[A
+
+
+
+Subject 15 trials:  70%|███████   | 14/20 [02:17<00:58,  9.67s/it][A[A[A
+
+
+
+Subject 15 trials:  75%|███████▌  | 15/20 [02:27<00:48,  9.68s/it][A[A[A
+
+
+
+Subject 15 trials:  80%|████████  | 16/20 [02:36<00:38,  9.57s/it][A[A[A
+
+
+
+Subject 15 trials:  85%|████████▌ | 17/20 [02:46<00:29,  9.67s/it][A[A[A
+
+
+
+Subject 15 trials:  90%|█████████ | 18/20 [02:55<00:19,  9.56s/it][A[A[A
+
+
+
+Subject 15 trials:  95%|█████████▌| 19/20 [03:04<00:09,  9.45s/it][A[A[A
+
+
+
+Subject 15 trials: 100%|██████████| 20/20 [03:14<00:00,  9.49s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  93%|█████████▎| 13/14 [45:03<03:22, 202.08s/it][A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+
+
+
+Subject 16 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 16 trials:   5%|▌         | 1/20 [00:11<03:39, 11.55s/it][A[A[A
+
+
+
+Subject 16 trials:  10%|█         | 2/20 [00:23<03:32, 11.82s/it][A[A[A
+
+
+
+Subject 16 trials:  15%|█▌        | 3/20 [00:34<03:17, 11.64s/it][A[A[A
+
+
+
+Subject 16 trials:  20%|██        | 4/20 [00:45<03:00, 11.26s/it][A[A[A
+
+
+
+Subject 16 trials:  25%|██▌       | 5/20 [00:55<02:43, 10.89s/it][A[A[A
+
+
+
+Subject 16 trials:  30%|███       | 6/20 [01:06<02:33, 10.94s/it][A[A[A
+
+
+
+Subject 16 trials:  35%|███▌      | 7/20 [01:16<02:17, 10.58s/it][A[A[A
+
+
+
+Subject 16 trials:  40%|████      | 8/20 [01:26<02:02, 10.24s/it][A[A[A
+
+
+
+Subject 16 trials:  45%|████▌     | 9/20 [01:37<01:54, 10.44s/it][A[A[A
+
+
+
+Subject 16 trials:  50%|█████     | 10/20 [01:47<01:43, 10.40s/it][A[A[A
+
+
+
+Subject 16 trials:  55%|█████▌    | 11/20 [01:58<01:35, 10.62s/it][A[A[A
+
+
+
+Subject 16 trials:  60%|██████    | 12/20 [02:08<01:24, 10.52s/it][A[A[A
+
+
+
+Subject 16 trials:  65%|██████▌   | 13/20 [02:19<01:14, 10.68s/it][A[A[A
+
+
+
+Subject 16 trials:  70%|███████   | 14/20 [02:29<01:02, 10.47s/it][A[A[A
+
+
+
+Subject 16 trials:  75%|███████▌  | 15/20 [02:40<00:52, 10.55s/it][A[A[A
+
+
+
+Subject 16 trials:  80%|████████  | 16/20 [02:51<00:42, 10.57s/it][A[A[A
+
+
+
+Subject 16 trials:  85%|████████▌ | 17/20 [03:01<00:31, 10.42s/it][A[A[A
+
+
+
+Subject 16 trials:  90%|█████████ | 18/20 [03:10<00:20, 10.19s/it][A[A[A
+
+
+
+Subject 16 trials:  95%|█████████▌| 19/20 [03:20<00:10, 10.06s/it][A[A[A
+
+
+
+Subject 16 trials: 100%|██████████| 20/20 [03:31<00:00, 10.17s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects: 100%|██████████| 14/14 [48:34<00:00, 204.84s/it][A[A
+
+
+                                                                   [A[AProcessed 24 windows for trial 1
+Processed 24 windows for trial 2
+Processed 24 windows for trial 3
+Processed 24 windows for trial 4
+Processed 24 windows for trial 5
+Processed 24 windows for trial 6
+Processed 24 windows for trial 7
+Processed 24 windows for trial 8
+Processed 24 windows for trial 9
+Processed 24 windows for trial 10
+Processed 24 windows for trial 11
+Processed 24 windows for trial 12
+Processed 24 windows for trial 13
+Processed 24 windows for trial 14
+Processed 24 windows for trial 15
+Processed 24 windows for trial 16
+Processed 24 windows for trial 17
+Processed 24 windows for trial 18
+Processed 24 windows for trial 19
+Processed 24 windows for trial 20
+
+Total training samples: 6720
+Training labels distribution: [5376 1344]
+
+Training SVM...
+Training data shape: (6720, 2)
+Training labels: (array([0, 1]), array([5376, 1344]))
+
+Training data correlation patterns:
+
+Label 0:
+Mean correlations: [0.26677738 0.27137063]
+Std correlations: [0.04889814 0.0499161 ]
+Number of samples: 5376
+
+Label 1:
+Mean correlations: [0.26947582 0.27308498]
+Std correlations: [0.04476829 0.04391892]
+Number of samples: 1344
+Class weights: {np.int64(0): np.float64(0.625), np.int64(1): np.float64(2.5)}
+SVM coefficients shape: (1, 2)
+SVM coefficients mean: 3.748948
+SVM intercept: -1.813241
+
+Training set metrics:
+Accuracy: 0.3680
+Precision: 0.2044
+Recall: 0.7470
+F1-score: 0.3210
+
+Confusion Matrix:
+[[1469 3907]
+ [ 340 1004]]
+
+Processing test subject 2
+
+
+
+Test trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A
+
+
+Test trials:   5%|▌         | 1/20 [00:13<04:23, 13.85s/it][A[A
+
+
+Test trials:  10%|█         | 2/20 [00:26<04:01, 13.44s/it][A[A
+
+
+Test trials:  15%|█▌        | 3/20 [00:38<03:33, 12.56s/it][A[A
+
+
+Test trials:  20%|██        | 4/20 [00:50<03:19, 12.47s/it][A[A
+
+
+Test trials:  25%|██▌       | 5/20 [01:02<03:02, 12.13s/it][A[A
+
+
+Test trials:  30%|███       | 6/20 [01:13<02:42, 11.63s/it][A[A
+
+
+Test trials:  35%|███▌      | 7/20 [01:26<02:37, 12.10s/it][A[A
+
+
+Test trials:  40%|████      | 8/20 [01:36<02:19, 11.64s/it][A[A
+
+
+Test trials:  45%|████▌     | 9/20 [01:47<02:06, 11.48s/it][A[A
+
+
+Test trials:  50%|█████     | 10/20 [01:58<01:52, 11.29s/it][A[A
+
+
+Test trials:  55%|█████▌    | 11/20 [02:09<01:39, 11.10s/it][A[A
+
+
+Test trials:  60%|██████    | 12/20 [02:19<01:26, 10.84s/it][A[A
+
+
+Test trials:  65%|██████▌   | 13/20 [02:29<01:14, 10.64s/it][A[A
+
+
+Test trials:  70%|███████   | 14/20 [02:39<01:02, 10.39s/it][A[A
+
+
+Test trials:  75%|███████▌  | 15/20 [02:49<00:51, 10.33s/it][A[A
+
+
+Test trials:  80%|████████  | 16/20 [03:00<00:41, 10.28s/it][A[A
+
+
+Test trials:  85%|████████▌ | 17/20 [03:11<00:31, 10.51s/it][A[A
+
+
+Test trials:  90%|█████████ | 18/20 [03:21<00:20, 10.40s/it][A[A
+
+
+Test trials:  95%|█████████▌| 19/20 [03:31<00:10, 10.48s/it][A[A
+
+
+Test trials: 100%|██████████| 20/20 [03:42<00:00, 10.56s/it][A[A
+
+
+                                                            [A[A
+Experiments:  50%|█████     | 1/2 [1:42:27<1:42:27, 6147.53s/it]
+Window 1 debug:
+Correlations: [0.32696513 0.32911291]
+Probabilities: [0.79730983 0.20269017]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.34336449 0.35329052]
+Probabilities: [0.79664637 0.20335363]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.33001361 0.36360783]
+Probabilities: [0.79688194 0.20311806]
+Prediction: 1, True: 0
+
+Trial 1 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.32356707 0.38127355]
+Probabilities: [0.79686675 0.20313325]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.28788351 0.32914916]
+Probabilities: [0.79830225 0.20169775]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3109104 0.3390727]
+Probabilities: [0.79761719 0.20238281]
+Prediction: 1, True: 0
+
+Trial 2 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.29824895 0.28391301]
+Probabilities: [0.79849661 0.20150339]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.31337143 0.29097796]
+Probabilities: [0.79804169 0.20195831]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.33358389 0.30372625]
+Probabilities: [0.79739892 0.20260108]
+Prediction: 1, True: 0
+
+Trial 3 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.28672102 0.28491979]
+Probabilities: [0.79877839 0.20122161]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30700931 0.3109216 ]
+Probabilities: [0.79800137 0.20199863]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.34866603 0.34482282]
+Probabilities: [0.79659723 0.20340277]
+Prediction: 1, True: 0
+
+Trial 4 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.32668918 0.32775745]
+Probabilities: [0.7973306 0.2026694]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.30300643 0.35117121]
+Probabilities: [0.7976955 0.2023045]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.33961842 0.37446723]
+Probabilities: [0.79652654 0.20347346]
+Prediction: 1, True: 1
+
+Trial 5 accuracy: 1.0000 (24/24)
+
+Window 1 debug:
+Correlations: [0.31769903 0.33400161]
+Probabilities: [0.79749598 0.20250402]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.29244313 0.34178811]
+Probabilities: [0.79805877 0.20194123]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.29975247 0.32402898]
+Probabilities: [0.79805294 0.20194706]
+Prediction: 1, True: 1
+
+Trial 6 accuracy: 1.0000 (24/24)
+
+Window 1 debug:
+Correlations: [0.34627713 0.3299422 ]
+Probabilities: [0.79680947 0.20319053]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.36817063 0.34437875]
+Probabilities: [0.79610361 0.20389639]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.36820916 0.34095155]
+Probabilities: [0.79613755 0.20386245]
+Prediction: 1, True: 1
+
+Trial 7 accuracy: 1.0000 (24/24)
+
+Window 1 debug:
+Correlations: [0.27423284 0.31419523]
+Probabilities: [0.79879909 0.20120091]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.28258288 0.31819531]
+Probabilities: [0.79854727 0.20145273]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.31545915 0.32771612]
+Probabilities: [0.79761665 0.20238335]
+Prediction: 1, True: 1
+
+Trial 8 accuracy: 1.0000 (24/24)
+
+Window 1 debug:
+Correlations: [0.28874423 0.26982822]
+Probabilities: [0.79887944 0.20112056]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29028201 0.29525664]
+Probabilities: [0.79858388 0.20141612]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29698486 0.26766414]
+Probabilities: [0.7986927 0.2013073]
+Prediction: 1, True: 0
+
+Trial 9 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.30160134 0.34808538]
+Probabilities: [0.79776246 0.20223754]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29656601 0.34337487]
+Probabilities: [0.79793805 0.20206195]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29954841 0.35865111]
+Probabilities: [0.7977076 0.2022924]
+Prediction: 1, True: 0
+
+Trial 10 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.27149431 0.26294763]
+Probabilities: [0.79938483 0.20061517]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29026691 0.27353864]
+Probabilities: [0.79880348 0.20119652]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.32135027 0.28081802]
+Probabilities: [0.79794196 0.20205804]
+Prediction: 1, True: 0
+
+Trial 11 accuracy: 0.1250 (3/24)
+
+Window 1 debug:
+Correlations: [0.24225196 0.27987321]
+Probabilities: [0.79995234 0.20004766]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.25686608 0.29474113]
+Probabilities: [0.79943417 0.20056583]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.294834   0.30631696]
+Probabilities: [0.7983568 0.2016432]
+Prediction: 1, True: 0
+
+Trial 12 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.27665444 0.31076781]
+Probabilities: [0.79877238 0.20122762]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.2788006  0.33892349]
+Probabilities: [0.79843373 0.20156627]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29487192 0.33250526]
+Probabilities: [0.79809104 0.20190896]
+Prediction: 1, True: 0
+
+Trial 13 accuracy: 0.0417 (1/24)
+
+Window 1 debug:
+Correlations: [0.28241166 0.30267473]
+Probabilities: [0.79870831 0.20129169]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.27962851 0.32134771]
+Probabilities: [0.79859028 0.20140972]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.27937914 0.30588709]
+Probabilities: [0.79875266 0.20124734]
+Prediction: 1, True: 0
+
+Trial 14 accuracy: 0.1250 (3/24)
+
+Window 1 debug:
+Correlations: [0.31687807 0.32038539]
+Probabilities: [0.79765486 0.20234514]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.32040193 0.31833037]
+Probabilities: [0.79758611 0.20241389]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3156345  0.30511359]
+Probabilities: [0.79784115 0.20215885]
+Prediction: 1, True: 0
+
+Trial 15 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.25128555 0.29569011]
+Probabilities: [0.7995655 0.2004345]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.26837439 0.32268117]
+Probabilities: [0.79886174 0.20113826]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.33016664 0.36739263]
+Probabilities: [0.79683958 0.20316042]
+Prediction: 1, True: 0
+
+Trial 16 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.27088288 0.25850431]
+Probabilities: [0.799445 0.200555]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29261516 0.28778953]
+Probabilities: [0.79860019 0.20139981]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29936807 0.29027906]
+Probabilities: [0.79840394 0.20159606]
+Prediction: 1, True: 0
+
+Trial 17 accuracy: 0.0417 (1/24)
+
+Window 1 debug:
+Correlations: [0.30751625 0.31868223]
+Probabilities: [0.79790995 0.20209005]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29952526 0.32442728]
+Probabilities: [0.79805467 0.20194533]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29868939 0.35081536]
+Probabilities: [0.79780879 0.20219121]
+Prediction: 1, True: 0
+
+Trial 18 accuracy: 0.0000 (0/24)
+
+Window 1 debug:
+Correlations: [0.23665737 0.25013595]
+Probabilities: [0.80039171 0.19960829]
+Prediction: 0, True: 0
+
+Window 2 debug:
+Correlations: [0.25547198 0.25452763]
+Probabilities: [0.7998738 0.2001262]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.25150401 0.25101466]
+Probabilities: [0.80000909 0.19999091]
+Prediction: 1, True: 0
+
+Trial 19 accuracy: 0.1250 (3/24)
+
+Window 1 debug:
+Correlations: [0.24172498 0.30585356]
+Probabilities: [0.79970449 0.20029551]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.26016307 0.31634683]
+Probabilities: [0.79913328 0.20086672]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31328283 0.35233741]
+Probabilities: [0.79742239 0.20257761]
+Prediction: 1, True: 0
+
+Trial 20 accuracy: 0.0000 (0/24)
+
+Overall accuracy: 0.2229 (107/480)
+
+Processing experiment: exp2
+
+Processing test subject 1
+
+Processing 20 training trials from 14 subjects...
+
+
+
+Training subjects:   0%|          | 0/14 [00:00<?, ?it/s][A[A
+
+
+
+Subject 3 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 3 trials:   5%|▌         | 1/20 [00:08<02:43,  8.60s/it][A[A[A
+
+
+
+Subject 3 trials:  10%|█         | 2/20 [00:16<02:30,  8.37s/it][A[A[A
+
+
+
+Subject 3 trials:  15%|█▌        | 3/20 [00:25<02:23,  8.47s/it][A[A[A
+
+
+
+Subject 3 trials:  20%|██        | 4/20 [00:33<02:14,  8.39s/it][A[A[A
+
+
+
+Subject 3 trials:  25%|██▌       | 5/20 [00:41<02:05,  8.34s/it][A[A[A
+
+
+
+Subject 3 trials:  30%|███       | 6/20 [00:50<01:57,  8.36s/it][A[A[A
+
+
+
+Subject 3 trials:  35%|███▌      | 7/20 [00:58<01:46,  8.16s/it][A[A[A
+
+
+
+Subject 3 trials:  40%|████      | 8/20 [01:05<01:36,  8.00s/it][A[A[A
+
+
+
+Subject 3 trials:  45%|████▌     | 9/20 [01:14<01:31,  8.31s/it][A[A[A
+
+
+
+Subject 3 trials:  50%|█████     | 10/20 [01:23<01:23,  8.34s/it][A[A[A
+
+
+
+Subject 3 trials:  55%|█████▌    | 11/20 [01:31<01:14,  8.31s/it][A[A[A
+
+
+
+Subject 3 trials:  60%|██████    | 12/20 [01:39<01:05,  8.21s/it][A[A[A
+
+
+
+Subject 3 trials:  65%|██████▌   | 13/20 [01:47<00:56,  8.07s/it][A[A[A
+
+
+
+Subject 3 trials:  70%|███████   | 14/20 [01:55<00:48,  8.11s/it][A[A[A
+
+
+
+Subject 3 trials:  75%|███████▌  | 15/20 [02:02<00:39,  7.98s/it][A[A[A
+
+
+
+Subject 3 trials:  80%|████████  | 16/20 [02:10<00:31,  7.86s/it][A[A[A
+
+
+
+Subject 3 trials:  85%|████████▌ | 17/20 [02:18<00:23,  7.93s/it][A[A[A
+
+
+
+Subject 3 trials:  90%|█████████ | 18/20 [02:26<00:15,  7.86s/it][A[A[A
+
+
+
+Subject 3 trials:  95%|█████████▌| 19/20 [02:34<00:07,  7.82s/it][A[A[A
+
+
+
+Subject 3 trials: 100%|██████████| 20/20 [02:41<00:00,  7.82s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:   7%|▋         | 1/14 [02:41<35:04, 161.90s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 4 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 4 trials:   5%|▌         | 1/20 [00:08<02:37,  8.29s/it][A[A[A
+
+
+
+Subject 4 trials:  10%|█         | 2/20 [00:16<02:29,  8.31s/it][A[A[A
+
+
+
+Subject 4 trials:  15%|█▌        | 3/20 [00:25<02:26,  8.61s/it][A[A[A
+
+
+
+Subject 4 trials:  20%|██        | 4/20 [00:33<02:14,  8.42s/it][A[A[A
+
+
+
+Subject 4 trials:  25%|██▌       | 5/20 [00:41<02:03,  8.26s/it][A[A[A
+
+
+
+Subject 4 trials:  30%|███       | 6/20 [00:50<01:56,  8.29s/it][A[A[A
+
+
+
+Subject 4 trials:  35%|███▌      | 7/20 [00:58<01:49,  8.45s/it][A[A[A
+
+
+
+Subject 4 trials:  40%|████      | 8/20 [01:07<01:42,  8.53s/it][A[A[A
+
+
+
+Subject 4 trials:  45%|████▌     | 9/20 [01:16<01:34,  8.59s/it][A[A[A
+
+
+
+Subject 4 trials:  50%|█████     | 10/20 [01:25<01:27,  8.80s/it][A[A[A
+
+
+
+Subject 4 trials:  55%|█████▌    | 11/20 [01:34<01:18,  8.74s/it][A[A[A
+
+
+
+Subject 4 trials:  60%|██████    | 12/20 [01:42<01:09,  8.66s/it][A[A[A
+
+
+
+Subject 4 trials:  65%|██████▌   | 13/20 [01:51<01:00,  8.66s/it][A[A[A
+
+
+
+Subject 4 trials:  70%|███████   | 14/20 [01:59<00:50,  8.49s/it][A[A[A
+
+
+
+Subject 4 trials:  75%|███████▌  | 15/20 [02:07<00:41,  8.34s/it][A[A[A
+
+
+
+Subject 4 trials:  80%|████████  | 16/20 [02:16<00:34,  8.51s/it][A[A[A
+
+
+
+Subject 4 trials:  85%|████████▌ | 17/20 [02:24<00:25,  8.56s/it][A[A[A
+
+
+
+Subject 4 trials:  90%|█████████ | 18/20 [02:33<00:16,  8.44s/it][A[A[A
+
+
+
+Subject 4 trials:  95%|█████████▌| 19/20 [02:41<00:08,  8.36s/it][A[A[A
+
+
+
+Subject 4 trials: 100%|██████████| 20/20 [02:49<00:00,  8.42s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  14%|█▍        | 2/14 [05:31<33:18, 166.56s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 5 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 5 trials:   5%|▌         | 1/20 [00:09<03:04,  9.70s/it][A[A[A
+
+
+
+Subject 5 trials:  10%|█         | 2/20 [00:18<02:46,  9.27s/it][A[A[A
+
+
+
+Subject 5 trials:  15%|█▌        | 3/20 [00:27<02:37,  9.26s/it][A[A[A
+
+
+
+Subject 5 trials:  20%|██        | 4/20 [00:36<02:26,  9.15s/it][A[A[A
+
+
+
+Subject 5 trials:  25%|██▌       | 5/20 [00:47<02:22,  9.50s/it][A[A[A
+
+
+
+Subject 5 trials:  30%|███       | 6/20 [00:56<02:14,  9.62s/it][A[A[A
+
+
+
+Subject 5 trials:  35%|███▌      | 7/20 [01:06<02:05,  9.68s/it][A[A[A
+
+
+
+Subject 5 trials:  40%|████      | 8/20 [01:16<01:55,  9.62s/it][A[A[A
+
+
+
+Subject 5 trials:  45%|████▌     | 9/20 [01:25<01:45,  9.63s/it][A[A[A
+
+
+
+Subject 5 trials:  50%|█████     | 10/20 [01:35<01:36,  9.63s/it][A[A[A
+
+
+
+Subject 5 trials:  55%|█████▌    | 11/20 [01:45<01:26,  9.67s/it][A[A[A
+
+
+
+Subject 5 trials:  60%|██████    | 12/20 [01:54<01:17,  9.65s/it][A[A[A
+
+
+
+Subject 5 trials:  65%|██████▌   | 13/20 [02:04<01:07,  9.58s/it][A[A[A
+
+
+
+Subject 5 trials:  70%|███████   | 14/20 [02:14<00:58,  9.67s/it][A[A[A
+
+
+
+Subject 5 trials:  75%|███████▌  | 15/20 [02:23<00:48,  9.60s/it][A[A[A
+
+
+
+Subject 5 trials:  80%|████████  | 16/20 [02:33<00:38,  9.69s/it][A[A[A
+
+
+
+Subject 5 trials:  85%|████████▌ | 17/20 [02:42<00:28,  9.58s/it][A[A[A
+
+
+
+Subject 5 trials:  90%|█████████ | 18/20 [02:52<00:18,  9.48s/it][A[A[A
+
+
+
+Subject 5 trials:  95%|█████████▌| 19/20 [03:01<00:09,  9.61s/it][A[A[A
+
+
+
+Subject 5 trials: 100%|██████████| 20/20 [03:11<00:00,  9.59s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  21%|██▏       | 3/14 [08:43<32:37, 177.94s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 6 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 6 trials:   5%|▌         | 1/20 [00:09<03:07,  9.89s/it][A[A[A
+
+
+
+Subject 6 trials:  10%|█         | 2/20 [00:19<02:56,  9.81s/it][A[A[A
+
+
+
+Subject 6 trials:  15%|█▌        | 3/20 [00:29<02:46,  9.77s/it][A[A[A
+
+
+
+Subject 6 trials:  20%|██        | 4/20 [00:38<02:34,  9.66s/it][A[A[A
+
+
+
+Subject 6 trials:  25%|██▌       | 5/20 [00:48<02:23,  9.56s/it][A[A[A
+
+
+
+Subject 6 trials:  30%|███       | 6/20 [00:57<02:13,  9.54s/it][A[A[A
+
+
+
+Subject 6 trials:  35%|███▌      | 7/20 [01:06<02:01,  9.35s/it][A[A[A
+
+
+
+Subject 6 trials:  40%|████      | 8/20 [01:15<01:50,  9.21s/it][A[A[A
+
+
+
+Subject 6 trials:  45%|████▌     | 9/20 [01:24<01:40,  9.12s/it][A[A[A
+
+
+
+Subject 6 trials:  50%|█████     | 10/20 [01:33<01:30,  9.10s/it][A[A[A
+
+
+
+Subject 6 trials:  55%|█████▌    | 11/20 [01:42<01:21,  9.03s/it][A[A[A
+
+
+
+Subject 6 trials:  60%|██████    | 12/20 [01:52<01:13,  9.22s/it][A[A[A
+
+
+
+Subject 6 trials:  65%|██████▌   | 13/20 [02:01<01:04,  9.28s/it][A[A[A
+
+
+
+Subject 6 trials:  70%|███████   | 14/20 [02:10<00:55,  9.29s/it][A[A[A
+
+
+
+Subject 6 trials:  75%|███████▌  | 15/20 [02:19<00:46,  9.25s/it][A[A[A
+
+
+
+Subject 6 trials:  80%|████████  | 16/20 [02:28<00:36,  9.14s/it][A[A[A
+
+
+
+Subject 6 trials:  85%|████████▌ | 17/20 [02:38<00:27,  9.19s/it][A[A[A
+
+
+
+Subject 6 trials:  90%|█████████ | 18/20 [02:47<00:18,  9.10s/it][A[A[A
+
+
+
+Subject 6 trials:  95%|█████████▌| 19/20 [02:56<00:09,  9.23s/it][A[A[A
+
+
+
+Subject 6 trials: 100%|██████████| 20/20 [03:05<00:00,  9.06s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  29%|██▊       | 4/14 [11:48<30:08, 180.83s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 7 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 7 trials:   5%|▌         | 1/20 [00:14<04:38, 14.68s/it][A[A[A
+
+
+
+Subject 7 trials:  10%|█         | 2/20 [00:27<03:59, 13.33s/it][A[A[A
+
+
+
+Subject 7 trials:  15%|█▌        | 3/20 [00:41<03:52, 13.67s/it][A[A[A
+
+
+
+Subject 7 trials:  20%|██        | 4/20 [00:52<03:23, 12.70s/it][A[A[A
+
+
+
+Subject 7 trials:  25%|██▌       | 5/20 [01:04<03:06, 12.41s/it][A[A[A
+
+
+
+Subject 7 trials:  30%|███       | 6/20 [01:13<02:37, 11.22s/it][A[A[A
+
+
+
+Subject 7 trials:  35%|███▌      | 7/20 [01:22<02:16, 10.47s/it][A[A[A
+
+
+
+Subject 7 trials:  40%|████      | 8/20 [01:30<01:58,  9.91s/it][A[A[A
+
+
+
+Subject 7 trials:  45%|████▌     | 9/20 [01:39<01:46,  9.68s/it][A[A[A
+
+
+
+Subject 7 trials:  50%|█████     | 10/20 [01:49<01:37,  9.74s/it][A[A[A
+
+
+
+Subject 7 trials:  55%|█████▌    | 11/20 [01:59<01:28,  9.84s/it][A[A[A
+
+
+
+Subject 7 trials:  60%|██████    | 12/20 [02:09<01:17,  9.66s/it][A[A[A
+
+
+
+Subject 7 trials:  65%|██████▌   | 13/20 [02:18<01:07,  9.71s/it][A[A[A
+
+
+
+Subject 7 trials:  70%|███████   | 14/20 [02:28<00:57,  9.64s/it][A[A[A
+
+
+
+Subject 7 trials:  75%|███████▌  | 15/20 [02:37<00:47,  9.42s/it][A[A[A
+
+
+
+Subject 7 trials:  80%|████████  | 16/20 [02:46<00:37,  9.31s/it][A[A[A
+
+
+
+Subject 7 trials:  85%|████████▌ | 17/20 [02:57<00:29,  9.84s/it][A[A[A
+
+
+
+Subject 7 trials:  90%|█████████ | 18/20 [03:07<00:19,  9.75s/it][A[A[A
+
+
+
+Subject 7 trials:  95%|█████████▌| 19/20 [03:15<00:09,  9.51s/it][A[A[A
+
+
+
+Subject 7 trials: 100%|██████████| 20/20 [03:24<00:00,  9.34s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  36%|███▌      | 5/14 [15:13<28:25, 189.53s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 8 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 8 trials:   5%|▌         | 1/20 [00:09<02:53,  9.13s/it][A[A[A
+
+
+
+Subject 8 trials:  10%|█         | 2/20 [00:18<02:43,  9.06s/it][A[A[A
+
+
+
+Subject 8 trials:  15%|█▌        | 3/20 [00:27<02:33,  9.05s/it][A[A[A
+
+
+
+Subject 8 trials:  20%|██        | 4/20 [00:36<02:24,  9.00s/it][A[A[A
+
+
+
+Subject 8 trials:  25%|██▌       | 5/20 [00:45<02:17,  9.15s/it][A[A[A
+
+
+
+Subject 8 trials:  30%|███       | 6/20 [00:54<02:06,  9.04s/it][A[A[A
+
+
+
+Subject 8 trials:  35%|███▌      | 7/20 [01:03<01:56,  8.95s/it][A[A[A
+
+
+
+Subject 8 trials:  40%|████      | 8/20 [01:11<01:45,  8.81s/it][A[A[A
+
+
+
+Subject 8 trials:  45%|████▌     | 9/20 [01:20<01:37,  8.90s/it][A[A[A
+
+
+
+Subject 8 trials:  50%|█████     | 10/20 [01:29<01:29,  8.94s/it][A[A[A
+
+
+
+Subject 8 trials:  55%|█████▌    | 11/20 [01:38<01:19,  8.82s/it][A[A[A
+
+
+
+Subject 8 trials:  60%|██████    | 12/20 [01:47<01:11,  8.90s/it][A[A[A
+
+
+
+Subject 8 trials:  65%|██████▌   | 13/20 [01:56<01:02,  8.93s/it][A[A[A
+
+
+
+Subject 8 trials:  70%|███████   | 14/20 [02:05<00:54,  9.06s/it][A[A[A
+
+
+
+Subject 8 trials:  75%|███████▌  | 15/20 [02:14<00:44,  8.96s/it][A[A[A
+
+
+
+Subject 8 trials:  80%|████████  | 16/20 [02:22<00:35,  8.76s/it][A[A[A
+
+
+
+Subject 8 trials:  85%|████████▌ | 17/20 [02:31<00:26,  8.79s/it][A[A[A
+
+
+
+Subject 8 trials:  90%|█████████ | 18/20 [02:40<00:17,  8.68s/it][A[A[A
+
+
+
+Subject 8 trials:  95%|█████████▌| 19/20 [02:47<00:08,  8.43s/it][A[A[A
+
+
+
+Subject 8 trials: 100%|██████████| 20/20 [02:56<00:00,  8.41s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  43%|████▎     | 6/14 [18:09<24:40, 185.01s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 9 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 9 trials:   5%|▌         | 1/20 [00:07<02:27,  7.75s/it][A[A[A
+
+
+
+Subject 9 trials:  10%|█         | 2/20 [00:15<02:18,  7.69s/it][A[A[A
+
+
+
+Subject 9 trials:  15%|█▌        | 3/20 [00:23<02:10,  7.69s/it][A[A[A
+
+
+
+Subject 9 trials:  20%|██        | 4/20 [00:30<02:02,  7.64s/it][A[A[A
+
+
+
+Subject 9 trials:  25%|██▌       | 5/20 [00:39<02:02,  8.15s/it][A[A[A
+
+
+
+Subject 9 trials:  30%|███       | 6/20 [00:48<01:56,  8.32s/it][A[A[A
+
+
+
+Subject 9 trials:  35%|███▌      | 7/20 [00:56<01:45,  8.11s/it][A[A[A
+
+
+
+Subject 9 trials:  40%|████      | 8/20 [01:03<01:35,  7.99s/it][A[A[A
+
+
+
+Subject 9 trials:  45%|████▌     | 9/20 [01:12<01:30,  8.21s/it][A[A[A
+
+
+
+Subject 9 trials:  50%|█████     | 10/20 [01:20<01:22,  8.24s/it][A[A[A
+
+
+
+Subject 9 trials:  55%|█████▌    | 11/20 [01:28<01:13,  8.18s/it][A[A[A
+
+
+
+Subject 9 trials:  60%|██████    | 12/20 [01:37<01:05,  8.21s/it][A[A[A
+
+
+
+Subject 9 trials:  65%|██████▌   | 13/20 [01:45<00:56,  8.14s/it][A[A[A
+
+
+
+Subject 9 trials:  70%|███████   | 14/20 [01:53<00:48,  8.13s/it][A[A[A
+
+
+
+Subject 9 trials:  75%|███████▌  | 15/20 [02:00<00:40,  8.02s/it][A[A[A
+
+
+
+Subject 9 trials:  80%|████████  | 16/20 [02:08<00:31,  7.90s/it][A[A[A
+
+
+
+Subject 9 trials:  85%|████████▌ | 17/20 [02:16<00:24,  8.01s/it][A[A[A
+
+
+
+Subject 9 trials:  90%|█████████ | 18/20 [02:25<00:16,  8.13s/it][A[A[A
+
+
+
+Subject 9 trials:  95%|█████████▌| 19/20 [02:33<00:08,  8.28s/it][A[A[A
+
+
+
+Subject 9 trials: 100%|██████████| 20/20 [02:42<00:00,  8.46s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  50%|█████     | 7/14 [20:52<20:44, 177.73s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 10 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 10 trials:   5%|▌         | 1/20 [00:08<02:50,  8.95s/it][A[A[A
+
+
+
+Subject 10 trials:  10%|█         | 2/20 [00:18<02:42,  9.03s/it][A[A[A
+
+
+
+Subject 10 trials:  15%|█▌        | 3/20 [00:27<02:40,  9.41s/it][A[A[A
+
+
+
+Subject 10 trials:  20%|██        | 4/20 [00:37<02:32,  9.51s/it][A[A[A
+
+
+
+Subject 10 trials:  25%|██▌       | 5/20 [00:46<02:19,  9.32s/it][A[A[A
+
+
+
+Subject 10 trials:  30%|███       | 6/20 [00:54<02:05,  8.98s/it][A[A[A
+
+
+
+Subject 10 trials:  35%|███▌      | 7/20 [01:03<01:56,  8.95s/it][A[A[A
+
+
+
+Subject 10 trials:  40%|████      | 8/20 [01:11<01:44,  8.69s/it][A[A[A
+
+
+
+Subject 10 trials:  45%|████▌     | 9/20 [01:21<01:37,  8.85s/it][A[A[A
+
+
+
+Subject 10 trials:  50%|█████     | 10/20 [01:28<01:25,  8.55s/it][A[A[A
+
+
+
+Subject 10 trials:  55%|█████▌    | 11/20 [01:37<01:16,  8.55s/it][A[A[A
+
+
+
+Subject 10 trials:  60%|██████    | 12/20 [01:46<01:10,  8.78s/it][A[A[A
+
+
+
+Subject 10 trials:  65%|██████▌   | 13/20 [01:56<01:02,  8.91s/it][A[A[A
+
+
+
+Subject 10 trials:  70%|███████   | 14/20 [02:05<00:54,  9.12s/it][A[A[A
+
+
+
+Subject 10 trials:  75%|███████▌  | 15/20 [02:15<00:46,  9.22s/it][A[A[A
+
+
+
+Subject 10 trials:  80%|████████  | 16/20 [02:24<00:37,  9.38s/it][A[A[A
+
+
+
+Subject 10 trials:  85%|████████▌ | 17/20 [02:34<00:28,  9.47s/it][A[A[A
+
+
+
+Subject 10 trials:  90%|█████████ | 18/20 [02:43<00:18,  9.42s/it][A[A[A
+
+
+
+Subject 10 trials:  95%|█████████▌| 19/20 [02:53<00:09,  9.44s/it][A[A[A
+
+
+
+Subject 10 trials: 100%|██████████| 20/20 [03:03<00:00,  9.66s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  57%|█████▋    | 8/14 [23:55<17:57, 179.56s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 11 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 11 trials:   5%|▌         | 1/20 [00:08<02:39,  8.40s/it][A[A[A
+
+
+
+Subject 11 trials:  10%|█         | 2/20 [00:16<02:25,  8.09s/it][A[A[A
+
+
+
+Subject 11 trials:  15%|█▌        | 3/20 [00:24<02:15,  7.96s/it][A[A[A
+
+
+
+Subject 11 trials:  20%|██        | 4/20 [00:32<02:07,  7.99s/it][A[A[A
+
+
+
+Subject 11 trials:  25%|██▌       | 5/20 [00:40<02:00,  8.00s/it][A[A[A
+
+
+
+Subject 11 trials:  30%|███       | 6/20 [00:47<01:51,  7.95s/it][A[A[A
+
+
+
+Subject 11 trials:  35%|███▌      | 7/20 [00:55<01:43,  7.94s/it][A[A[A
+
+
+
+Subject 11 trials:  40%|████      | 8/20 [01:03<01:34,  7.91s/it][A[A[A
+
+
+
+Subject 11 trials:  45%|████▌     | 9/20 [01:11<01:26,  7.89s/it][A[A[A
+
+
+
+Subject 11 trials:  50%|█████     | 10/20 [01:19<01:19,  7.94s/it][A[A[A
+
+
+
+Subject 11 trials:  55%|█████▌    | 11/20 [01:27<01:10,  7.87s/it][A[A[A
+
+
+
+Subject 11 trials:  60%|██████    | 12/20 [01:35<01:03,  7.89s/it][A[A[A
+
+
+
+Subject 11 trials:  65%|██████▌   | 13/20 [01:43<00:55,  7.96s/it][A[A[A
+
+
+
+Subject 11 trials:  70%|███████   | 14/20 [01:51<00:48,  8.07s/it][A[A[A
+
+
+
+Subject 11 trials:  75%|███████▌  | 15/20 [01:59<00:40,  8.03s/it][A[A[A
+
+
+
+Subject 11 trials:  80%|████████  | 16/20 [02:07<00:31,  7.95s/it][A[A[A
+
+
+
+Subject 11 trials:  85%|████████▌ | 17/20 [02:16<00:24,  8.16s/it][A[A[A
+
+
+
+Subject 11 trials:  90%|█████████ | 18/20 [02:24<00:16,  8.27s/it][A[A[A
+
+
+
+Subject 11 trials:  95%|█████████▌| 19/20 [02:33<00:08,  8.45s/it][A[A[A
+
+
+
+Subject 11 trials: 100%|██████████| 20/20 [02:42<00:00,  8.56s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  64%|██████▍   | 9/14 [26:38<14:30, 174.17s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 12 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 12 trials:   5%|▌         | 1/20 [00:09<02:57,  9.37s/it][A[A[A
+
+
+
+Subject 12 trials:  10%|█         | 2/20 [00:18<02:48,  9.36s/it][A[A[A
+
+
+
+Subject 12 trials:  15%|█▌        | 3/20 [00:27<02:36,  9.20s/it][A[A[A
+
+
+
+Subject 12 trials:  20%|██        | 4/20 [00:35<02:20,  8.79s/it][A[A[A
+
+
+
+Subject 12 trials:  25%|██▌       | 5/20 [00:44<02:09,  8.66s/it][A[A[A
+
+
+
+Subject 12 trials:  30%|███       | 6/20 [00:53<02:01,  8.71s/it][A[A[A
+
+
+
+Subject 12 trials:  35%|███▌      | 7/20 [01:01<01:53,  8.75s/it][A[A[A
+
+
+
+Subject 12 trials:  40%|████      | 8/20 [01:10<01:44,  8.68s/it][A[A[A
+
+
+
+Subject 12 trials:  45%|████▌     | 9/20 [01:19<01:38,  8.92s/it][A[A[A
+
+
+
+Subject 12 trials:  50%|█████     | 10/20 [01:28<01:28,  8.88s/it][A[A[A
+
+
+
+Subject 12 trials:  55%|█████▌    | 11/20 [01:37<01:18,  8.74s/it][A[A[A
+
+
+
+Subject 12 trials:  60%|██████    | 12/20 [01:45<01:08,  8.58s/it][A[A[A
+
+
+
+Subject 12 trials:  65%|██████▌   | 13/20 [01:53<00:59,  8.48s/it][A[A[A
+
+
+
+Subject 12 trials:  70%|███████   | 14/20 [02:02<00:51,  8.65s/it][A[A[A
+
+
+
+Subject 12 trials:  75%|███████▌  | 15/20 [02:11<00:42,  8.56s/it][A[A[A
+
+
+
+Subject 12 trials:  80%|████████  | 16/20 [02:20<00:34,  8.69s/it][A[A[A
+
+
+
+Subject 12 trials:  85%|████████▌ | 17/20 [02:27<00:25,  8.47s/it][A[A[A
+
+
+
+Subject 12 trials:  90%|█████████ | 18/20 [02:36<00:17,  8.50s/it][A[A[A
+
+
+
+Subject 12 trials:  95%|█████████▌| 19/20 [02:44<00:08,  8.41s/it][A[A[A
+
+
+
+Subject 12 trials: 100%|██████████| 20/20 [02:52<00:00,  8.25s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  71%|███████▏  | 10/14 [29:30<11:34, 173.69s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 13 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 13 trials:   5%|▌         | 1/20 [00:09<02:57,  9.32s/it][A[A[A
+
+
+
+Subject 13 trials:  10%|█         | 2/20 [00:18<02:44,  9.15s/it][A[A[A
+
+
+
+Subject 13 trials:  15%|█▌        | 3/20 [00:27<02:35,  9.14s/it][A[A[A
+
+
+
+Subject 13 trials:  20%|██        | 4/20 [00:37<02:28,  9.31s/it][A[A[A
+
+
+
+Subject 13 trials:  25%|██▌       | 5/20 [00:46<02:18,  9.23s/it][A[A[A
+
+
+
+Subject 13 trials:  30%|███       | 6/20 [00:54<02:05,  8.96s/it][A[A[A
+
+
+
+Subject 13 trials:  35%|███▌      | 7/20 [01:03<01:55,  8.88s/it][A[A[A
+
+
+
+Subject 13 trials:  40%|████      | 8/20 [01:12<01:48,  9.01s/it][A[A[A
+
+
+
+Subject 13 trials:  45%|████▌     | 9/20 [01:20<01:36,  8.81s/it][A[A[A
+
+
+
+Subject 13 trials:  50%|█████     | 10/20 [01:30<01:29,  8.92s/it][A[A[A
+
+
+
+Subject 13 trials:  55%|█████▌    | 11/20 [01:39<01:21,  9.05s/it][A[A[A
+
+
+
+Subject 13 trials:  60%|██████    | 12/20 [01:48<01:13,  9.14s/it][A[A[A
+
+
+
+Subject 13 trials:  65%|██████▌   | 13/20 [01:57<01:02,  8.96s/it][A[A[A
+
+
+
+Subject 13 trials:  70%|███████   | 14/20 [02:06<00:53,  8.95s/it][A[A[A
+
+
+
+Subject 13 trials:  75%|███████▌  | 15/20 [02:15<00:44,  8.92s/it][A[A[A
+
+
+
+Subject 13 trials:  80%|████████  | 16/20 [02:24<00:35,  8.98s/it][A[A[A
+
+
+
+Subject 13 trials:  85%|████████▌ | 17/20 [02:33<00:27,  9.08s/it][A[A[A
+
+
+
+Subject 13 trials:  90%|█████████ | 18/20 [02:42<00:18,  9.12s/it][A[A[A
+
+
+
+Subject 13 trials:  95%|█████████▌| 19/20 [02:51<00:08,  8.88s/it][A[A[A
+
+
+
+Subject 13 trials: 100%|██████████| 20/20 [02:59<00:00,  8.71s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  79%|███████▊  | 11/14 [32:30<08:46, 175.44s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 14 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 14 trials:   5%|▌         | 1/20 [00:07<02:22,  7.51s/it][A[A[A
+
+
+
+Subject 14 trials:  10%|█         | 2/20 [00:15<02:19,  7.76s/it][A[A[A
+
+
+
+Subject 14 trials:  15%|█▌        | 3/20 [00:23<02:13,  7.88s/it][A[A[A
+
+
+
+Subject 14 trials:  20%|██        | 4/20 [00:31<02:06,  7.88s/it][A[A[A
+
+
+
+Subject 14 trials:  25%|██▌       | 5/20 [00:39<01:58,  7.89s/it][A[A[A
+
+
+
+Subject 14 trials:  30%|███       | 6/20 [00:47<01:50,  7.89s/it][A[A[A
+
+
+
+Subject 14 trials:  35%|███▌      | 7/20 [00:54<01:42,  7.86s/it][A[A[A
+
+
+
+Subject 14 trials:  40%|████      | 8/20 [01:03<01:36,  8.04s/it][A[A[A
+
+
+
+Subject 14 trials:  45%|████▌     | 9/20 [01:11<01:27,  7.98s/it][A[A[A
+
+
+
+Subject 14 trials:  50%|█████     | 10/20 [01:19<01:21,  8.14s/it][A[A[A
+
+
+
+Subject 14 trials:  55%|█████▌    | 11/20 [01:27<01:13,  8.16s/it][A[A[A
+
+
+
+Subject 14 trials:  60%|██████    | 12/20 [01:35<01:03,  7.99s/it][A[A[A
+
+
+
+Subject 14 trials:  65%|██████▌   | 13/20 [01:43<00:55,  7.96s/it][A[A[A
+
+
+
+Subject 14 trials:  70%|███████   | 14/20 [01:52<00:49,  8.18s/it][A[A[A
+
+
+
+Subject 14 trials:  75%|███████▌  | 15/20 [01:59<00:40,  8.05s/it][A[A[A
+
+
+
+Subject 14 trials:  80%|████████  | 16/20 [02:07<00:32,  8.01s/it][A[A[A
+
+
+
+Subject 14 trials:  85%|████████▌ | 17/20 [02:15<00:23,  8.00s/it][A[A[A
+
+
+
+Subject 14 trials:  90%|█████████ | 18/20 [02:24<00:16,  8.10s/it][A[A[A
+
+
+
+Subject 14 trials:  95%|█████████▌| 19/20 [02:33<00:08,  8.40s/it][A[A[A
+
+
+
+Subject 14 trials: 100%|██████████| 20/20 [02:41<00:00,  8.27s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  86%|████████▌ | 12/14 [35:11<05:42, 171.09s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 15 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 15 trials:   5%|▌         | 1/20 [00:08<02:47,  8.83s/it][A[A[A
+
+
+
+Subject 15 trials:  10%|█         | 2/20 [00:17<02:33,  8.52s/it][A[A[A
+
+
+
+Subject 15 trials:  15%|█▌        | 3/20 [00:25<02:20,  8.26s/it][A[A[A
+
+
+
+Subject 15 trials:  20%|██        | 4/20 [00:32<02:08,  8.06s/it][A[A[A
+
+
+
+Subject 15 trials:  25%|██▌       | 5/20 [00:40<02:00,  8.00s/it][A[A[A
+
+
+
+Subject 15 trials:  30%|███       | 6/20 [00:48<01:51,  7.95s/it][A[A[A
+
+
+
+Subject 15 trials:  35%|███▌      | 7/20 [00:56<01:45,  8.10s/it][A[A[A
+
+
+
+Subject 15 trials:  40%|████      | 8/20 [01:06<01:41,  8.47s/it][A[A[A
+
+
+
+Subject 15 trials:  45%|████▌     | 9/20 [01:15<01:35,  8.66s/it][A[A[A
+
+
+
+Subject 15 trials:  50%|█████     | 10/20 [01:23<01:25,  8.52s/it][A[A[A
+
+
+
+Subject 15 trials:  55%|█████▌    | 11/20 [01:31<01:15,  8.36s/it][A[A[A
+
+
+
+Subject 15 trials:  60%|██████    | 12/20 [01:39<01:05,  8.22s/it][A[A[A
+
+
+
+Subject 15 trials:  65%|██████▌   | 13/20 [01:47<00:57,  8.16s/it][A[A[A
+
+
+
+Subject 15 trials:  70%|███████   | 14/20 [01:55<00:49,  8.20s/it][A[A[A
+
+
+
+Subject 15 trials:  75%|███████▌  | 15/20 [02:03<00:40,  8.07s/it][A[A[A
+
+
+
+Subject 15 trials:  80%|████████  | 16/20 [02:11<00:32,  8.09s/it][A[A[A
+
+
+
+Subject 15 trials:  85%|████████▌ | 17/20 [02:19<00:23,  7.98s/it][A[A[A
+
+
+
+Subject 15 trials:  90%|█████████ | 18/20 [02:27<00:15,  7.93s/it][A[A[A
+
+
+
+Subject 15 trials:  95%|█████████▌| 19/20 [02:35<00:07,  7.90s/it][A[A[A
+
+
+
+Subject 15 trials: 100%|██████████| 20/20 [02:42<00:00,  7.89s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  93%|█████████▎| 13/14 [37:54<02:48, 168.61s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 16 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 16 trials:   5%|▌         | 1/20 [00:09<02:53,  9.14s/it][A[A[A
+
+
+
+Subject 16 trials:  10%|█         | 2/20 [00:18<02:47,  9.32s/it][A[A[A
+
+
+
+Subject 16 trials:  15%|█▌        | 3/20 [00:28<02:39,  9.38s/it][A[A[A
+
+
+
+Subject 16 trials:  20%|██        | 4/20 [00:36<02:25,  9.08s/it][A[A[A
+
+
+
+Subject 16 trials:  25%|██▌       | 5/20 [00:45<02:12,  8.83s/it][A[A[A
+
+
+
+Subject 16 trials:  30%|███       | 6/20 [00:53<02:01,  8.71s/it][A[A[A
+
+
+
+Subject 16 trials:  35%|███▌      | 7/20 [01:03<01:56,  8.97s/it][A[A[A
+
+
+
+Subject 16 trials:  40%|████      | 8/20 [01:12<01:49,  9.13s/it][A[A[A
+
+
+
+Subject 16 trials:  45%|████▌     | 9/20 [01:20<01:38,  8.92s/it][A[A[A
+
+
+
+Subject 16 trials:  50%|█████     | 10/20 [01:29<01:28,  8.85s/it][A[A[A
+
+
+
+Subject 16 trials:  55%|█████▌    | 11/20 [01:38<01:20,  8.92s/it][A[A[A
+
+
+
+Subject 16 trials:  60%|██████    | 12/20 [01:47<01:11,  8.99s/it][A[A[A
+
+
+
+Subject 16 trials:  65%|██████▌   | 13/20 [01:57<01:03,  9.07s/it][A[A[A
+
+
+
+Subject 16 trials:  70%|███████   | 14/20 [02:05<00:53,  8.99s/it][A[A[A
+
+
+
+Subject 16 trials:  75%|███████▌  | 15/20 [02:14<00:44,  9.00s/it][A[A[A
+
+
+
+Subject 16 trials:  80%|████████  | 16/20 [02:24<00:36,  9.10s/it][A[A[A
+
+
+
+Subject 16 trials:  85%|████████▌ | 17/20 [02:33<00:27,  9.02s/it][A[A[A
+
+
+
+Subject 16 trials:  90%|█████████ | 18/20 [02:41<00:17,  8.88s/it][A[A[A
+
+
+
+Subject 16 trials:  95%|█████████▌| 19/20 [02:51<00:09,  9.19s/it][A[A[A
+
+
+
+Subject 16 trials: 100%|██████████| 20/20 [03:00<00:00,  9.02s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects: 100%|██████████| 14/14 [40:54<00:00, 172.11s/it][A[A
+
+
+                                                                   [A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+Total training samples: 7000
+Training labels distribution: [5600 1400]
+
+Training SVM...
+Training data shape: (7000, 2)
+Training labels: (array([0, 1]), array([5600, 1400]))
+
+Training data correlation patterns:
+
+Label 0:
+Mean correlations: [0.29331108 0.29831935]
+Std correlations: [0.05351965 0.05470084]
+Number of samples: 5600
+
+Label 1:
+Mean correlations: [0.29623208 0.30004674]
+Std correlations: [0.04858119 0.04846476]
+Number of samples: 1400
+Class weights: {np.int64(0): np.float64(0.625), np.int64(1): np.float64(2.5)}
+SVM coefficients shape: (1, 2)
+SVM coefficients mean: 3.612680
+SVM intercept: -1.975342
+
+Training set metrics:
+Accuracy: 0.4031
+Precision: 0.2048
+Recall: 0.6886
+F1-score: 0.3158
+
+Confusion Matrix:
+[[1858 3742]
+ [ 436  964]]
+
+Processing test subject 1
+
+
+
+Test trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A
+
+
+Test trials:   5%|▌         | 1/20 [00:09<02:56,  9.29s/it][A[A
+
+
+Test trials:  10%|█         | 2/20 [00:18<02:44,  9.14s/it][A[A
+
+
+Test trials:  15%|█▌        | 3/20 [00:26<02:30,  8.86s/it][A[A
+
+
+Test trials:  20%|██        | 4/20 [00:35<02:19,  8.69s/it][A[A
+
+
+Test trials:  25%|██▌       | 5/20 [00:44<02:13,  8.92s/it][A[A
+
+
+Test trials:  30%|███       | 6/20 [00:52<02:01,  8.67s/it][A[A
+
+
+Test trials:  35%|███▌      | 7/20 [01:01<01:52,  8.62s/it][A[A
+
+
+Test trials:  40%|████      | 8/20 [01:10<01:45,  8.80s/it][A[A
+
+
+Test trials:  45%|████▌     | 9/20 [01:19<01:38,  8.97s/it][A[A
+
+
+Test trials:  50%|█████     | 10/20 [01:28<01:29,  8.97s/it][A[A
+
+
+Test trials:  55%|█████▌    | 11/20 [01:38<01:21,  9.07s/it][A[A
+
+
+Test trials:  60%|██████    | 12/20 [01:47<01:13,  9.19s/it][A[A
+
+
+Test trials:  65%|██████▌   | 13/20 [01:56<01:04,  9.24s/it][A[A
+
+
+Test trials:  70%|███████   | 14/20 [02:05<00:54,  9.11s/it][A[A
+
+
+Test trials:  75%|███████▌  | 15/20 [02:14<00:45,  9.01s/it][A[A
+
+
+Test trials:  80%|████████  | 16/20 [02:23<00:35,  8.97s/it][A[A
+
+
+Test trials:  85%|████████▌ | 17/20 [02:31<00:26,  8.84s/it][A[A
+
+
+Test trials:  90%|█████████ | 18/20 [02:41<00:18,  9.12s/it][A[A
+
+
+Test trials:  95%|█████████▌| 19/20 [02:50<00:09,  9.06s/it][A[A
+
+
+Test trials: 100%|██████████| 20/20 [02:59<00:00,  9.07s/it][A[A
+
+
+                                                            [A[A
+Window 1 debug:
+Correlations: [0.36136943 0.37899498]
+Probabilities: [0.80945763 0.19054237]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.36496143 0.39091255]
+Probabilities: [0.80989022 0.19010978]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.38722799 0.4049056 ]
+Probabilities: [0.81150405 0.18849595]
+Prediction: 1, True: 0
+
+Trial 1 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.3440981  0.33033535]
+Probabilities: [0.80752163 0.19247837]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.33573359 0.31174856]
+Probabilities: [0.80666796 0.19333204]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.29670499 0.32178818]
+Probabilities: [0.80440324 0.19559676]
+Prediction: 1, True: 0
+
+Trial 2 accuracy: 0.3600 (9/25)
+
+Window 1 debug:
+Correlations: [0.29986798 0.27708223]
+Probabilities: [0.8037928 0.1962072]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.3476314  0.33941511]
+Probabilities: [0.80790329 0.19209671]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31003461 0.30130747]
+Probabilities: [0.80487122 0.19512878]
+Prediction: 1, True: 0
+
+Trial 3 accuracy: 0.6000 (15/25)
+
+Window 1 debug:
+Correlations: [0.30335027 0.33316863]
+Probabilities: [0.80502661 0.19497339]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29085722 0.31700427]
+Probabilities: [0.80394825 0.19605175]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3172759  0.34076202]
+Probabilities: [0.80603599 0.19396401]
+Prediction: 1, True: 0
+
+Trial 4 accuracy: 0.0400 (1/25)
+
+Window 1 debug:
+Correlations: [0.38110612 0.35923786]
+Probabilities: [0.81032341 0.18967659]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.42181181 0.39544997]
+Probabilities: [0.81344611 0.18655389]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.40689521 0.3981065 ]
+Probabilities: [0.81258547 0.18741453]
+Prediction: 1, True: 1
+
+Trial 5 accuracy: 0.7600 (19/25)
+
+Window 1 debug:
+Correlations: [0.28944037 0.29275357]
+Probabilities: [0.80341888 0.19658112]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.2827544  0.28251973]
+Probabilities: [0.80280993 0.19719007]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.25198979 0.24485732]
+Probabilities: [0.80016296 0.19983704]
+Prediction: 0, True: 1
+
+Trial 6 accuracy: 0.6000 (15/25)
+
+Window 1 debug:
+Correlations: [0.32849337 0.34629842]
+Probabilities: [0.80683579 0.19316421]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.33766764 0.35828622]
+Probabilities: [0.80762134 0.19237866]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.34837753 0.35465677]
+Probabilities: [0.8082214 0.1917786]
+Prediction: 1, True: 1
+
+Trial 7 accuracy: 0.7200 (18/25)
+
+Window 1 debug:
+Correlations: [0.25733871 0.26515233]
+Probabilities: [0.80087727 0.19912273]
+Prediction: 0, True: 1
+
+Window 2 debug:
+Correlations: [0.28328372 0.29549144]
+Probabilities: [0.80307943 0.19692057]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.34613134 0.32084952]
+Probabilities: [0.80747851 0.19252149]
+Prediction: 1, True: 1
+
+Trial 8 accuracy: 0.9200 (23/25)
+
+Window 1 debug:
+Correlations: [0.34505899 0.31706658]
+Probabilities: [0.80734417 0.19265583]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.34267658 0.34432097]
+Probabilities: [0.80768315 0.19231685]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.37957173 0.39079997]
+Probabilities: [0.81078644 0.18921356]
+Prediction: 1, True: 0
+
+Trial 9 accuracy: 0.2000 (5/25)
+
+Window 1 debug:
+Correlations: [0.37209196 0.32003973]
+Probabilities: [0.80907333 0.19092667]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.35194472 0.30020385]
+Probabilities: [0.80747098 0.19252902]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3856587  0.31768812]
+Probabilities: [0.80986859 0.19013141]
+Prediction: 1, True: 0
+
+Trial 10 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.30287951 0.29233577]
+Probabilities: [0.80425898 0.19574102]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.34517057 0.3274375 ]
+Probabilities: [0.80753652 0.19246348]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.34454597 0.33527115]
+Probabilities: [0.80763766 0.19236234]
+Prediction: 1, True: 0
+
+Trial 11 accuracy: 0.0800 (2/25)
+
+Window 1 debug:
+Correlations: [0.14382629 0.16923064]
+Probabilities: [0.79172433 0.20827567]
+Prediction: 0, True: 0
+
+Window 2 debug:
+Correlations: [0.15400651 0.17536792]
+Probabilities: [0.79251109 0.20748891]
+Prediction: 0, True: 0
+
+Window 3 debug:
+Correlations: [0.22507346 0.2198652 ]
+Probabilities: [0.79797288 0.20202712]
+Prediction: 0, True: 0
+
+Trial 12 accuracy: 0.2000 (5/25)
+
+Window 1 debug:
+Correlations: [0.39241656 0.38286808]
+Probabilities: [0.81143391 0.18856609]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.33815519 0.36415759]
+Probabilities: [0.80775649 0.19224351]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.34075797 0.37566768]
+Probabilities: [0.80812342 0.19187658]
+Prediction: 1, True: 0
+
+Trial 13 accuracy: 0.0400 (1/25)
+
+Window 1 debug:
+Correlations: [0.36159297 0.40418285]
+Probabilities: [0.80991769 0.19008231]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.38331532 0.40488566]
+Probabilities: [0.81126417 0.18873583]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.38715651 0.36974954]
+Probabilities: [0.81088054 0.18911946]
+Prediction: 1, True: 0
+
+Trial 14 accuracy: 0.2400 (6/25)
+
+Window 1 debug:
+Correlations: [0.29060463 0.29904052]
+Probabilities: [0.80360654 0.19639346]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.34678864 0.34037405]
+Probabilities: [0.80786809 0.19213191]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.35240669 0.34408073]
+Probabilities: [0.80828272 0.19171728]
+Prediction: 1, True: 0
+
+Trial 15 accuracy: 0.3200 (8/25)
+
+Window 1 debug:
+Correlations: [0.27411356 0.29069062]
+Probabilities: [0.80241118 0.19758882]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.23747001 0.25425225]
+Probabilities: [0.7994059 0.2005941]
+Prediction: 0, True: 0
+
+Window 3 debug:
+Correlations: [0.27144496 0.26985799]
+Probabilities: [0.80186158 0.19813842]
+Prediction: 0, True: 0
+
+Trial 16 accuracy: 0.3200 (8/25)
+
+Window 1 debug:
+Correlations: [0.27322209 0.2523456 ]
+Probabilities: [0.80165451 0.19834549]
+Prediction: 0, True: 0
+
+Window 2 debug:
+Correlations: [0.25005717 0.23788772]
+Probabilities: [0.79991108 0.20008892]
+Prediction: 0, True: 0
+
+Window 3 debug:
+Correlations: [0.28269867 0.26029551]
+Probabilities: [0.80240154 0.19759846]
+Prediction: 1, True: 0
+
+Trial 17 accuracy: 0.4000 (10/25)
+
+Window 1 debug:
+Correlations: [0.36737718 0.36005537]
+Probabilities: [0.8094924 0.1905076]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.39655758 0.40618673]
+Probabilities: [0.81209672 0.18790328]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.35644559 0.36584383]
+Probabilities: [0.80892004 0.19107996]
+Prediction: 1, True: 0
+
+Trial 18 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.28419761 0.31189007]
+Probabilities: [0.80343518 0.19656482]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30062862 0.33235957]
+Probabilities: [0.80484106 0.19515894]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3300281  0.32750331]
+Probabilities: [0.80659453 0.19340547]
+Prediction: 1, True: 0
+
+Trial 19 accuracy: 0.3600 (9/25)
+
+Window 1 debug:
+Correlations: [0.25098176 0.2756159 ]
+Probabilities: [0.80066354 0.19933646]
+Prediction: 0, True: 0
+
+Window 2 debug:
+Correlations: [0.23984536 0.26701474]
+Probabilities: [0.7997933 0.2002067]
+Prediction: 0, True: 0
+
+Window 3 debug:
+Correlations: [0.22674769 0.25322485]
+Probabilities: [0.79869824 0.20130176]
+Prediction: 0, True: 0
+
+Trial 20 accuracy: 0.4000 (10/25)
+
+Overall accuracy: 0.3280 (164/500)
+
+Processing test subject 2
+
+Processing 20 training trials from 14 subjects...
+
+
+
+Training subjects:   0%|          | 0/14 [00:00<?, ?it/s][A[A
+
+
+
+Subject 3 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 3 trials:   5%|▌         | 1/20 [00:08<02:44,  8.68s/it][A[A[A
+
+
+
+Subject 3 trials:  10%|█         | 2/20 [00:17<02:33,  8.55s/it][A[A[A
+
+
+
+Subject 3 trials:  15%|█▌        | 3/20 [00:25<02:24,  8.48s/it][A[A[A
+
+
+
+Subject 3 trials:  20%|██        | 4/20 [00:33<02:14,  8.41s/it][A[A[A
+
+
+
+Subject 3 trials:  25%|██▌       | 5/20 [00:42<02:06,  8.42s/it][A[A[A
+
+
+
+Subject 3 trials:  30%|███       | 6/20 [00:50<01:57,  8.39s/it][A[A[A
+
+
+
+Subject 3 trials:  35%|███▌      | 7/20 [00:58<01:48,  8.38s/it][A[A[A
+
+
+
+Subject 3 trials:  40%|████      | 8/20 [01:07<01:40,  8.35s/it][A[A[A
+
+
+
+Subject 3 trials:  45%|████▌     | 9/20 [01:15<01:33,  8.46s/it][A[A[A
+
+
+
+Subject 3 trials:  50%|█████     | 10/20 [01:24<01:24,  8.43s/it][A[A[A
+
+
+
+Subject 3 trials:  55%|█████▌    | 11/20 [01:32<01:13,  8.22s/it][A[A[A
+
+
+
+Subject 3 trials:  60%|██████    | 12/20 [01:39<01:04,  8.07s/it][A[A[A
+
+
+
+Subject 3 trials:  65%|██████▌   | 13/20 [01:47<00:55,  7.97s/it][A[A[A
+
+
+
+Subject 3 trials:  70%|███████   | 14/20 [01:55<00:47,  7.90s/it][A[A[A
+
+
+
+Subject 3 trials:  75%|███████▌  | 15/20 [02:02<00:39,  7.85s/it][A[A[A
+
+
+
+Subject 3 trials:  80%|████████  | 16/20 [02:10<00:31,  7.80s/it][A[A[A
+
+
+
+Subject 3 trials:  85%|████████▌ | 17/20 [02:18<00:23,  7.78s/it][A[A[A
+
+
+
+Subject 3 trials:  90%|█████████ | 18/20 [02:26<00:15,  7.76s/it][A[A[A
+
+
+
+Subject 3 trials:  95%|█████████▌| 19/20 [02:33<00:07,  7.72s/it][A[A[A
+
+
+
+Subject 3 trials: 100%|██████████| 20/20 [02:41<00:00,  7.70s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:   7%|▋         | 1/14 [02:41<34:58, 161.42s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 4 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 4 trials:   5%|▌         | 1/20 [00:08<02:42,  8.53s/it][A[A[A
+
+
+
+Subject 4 trials:  10%|█         | 2/20 [00:16<02:27,  8.21s/it][A[A[A
+
+
+
+Subject 4 trials:  15%|█▌        | 3/20 [00:25<02:27,  8.66s/it][A[A[A
+
+
+
+Subject 4 trials:  20%|██        | 4/20 [00:33<02:15,  8.50s/it][A[A[A
+
+
+
+Subject 4 trials:  25%|██▌       | 5/20 [00:42<02:05,  8.36s/it][A[A[A
+
+
+
+Subject 4 trials:  30%|███       | 6/20 [00:50<01:55,  8.24s/it][A[A[A
+
+
+
+Subject 4 trials:  35%|███▌      | 7/20 [00:59<01:51,  8.54s/it][A[A[A
+
+
+
+Subject 4 trials:  40%|████      | 8/20 [01:08<01:44,  8.72s/it][A[A[A
+
+
+
+Subject 4 trials:  45%|████▌     | 9/20 [01:17<01:36,  8.74s/it][A[A[A
+
+
+
+Subject 4 trials:  50%|█████     | 10/20 [01:26<01:28,  8.83s/it][A[A[A
+
+
+
+Subject 4 trials:  55%|█████▌    | 11/20 [01:34<01:18,  8.71s/it][A[A[A
+
+
+
+Subject 4 trials:  60%|██████    | 12/20 [01:43<01:10,  8.87s/it][A[A[A
+
+
+
+Subject 4 trials:  65%|██████▌   | 13/20 [01:53<01:02,  8.98s/it][A[A[A
+
+
+
+Subject 4 trials:  70%|███████   | 14/20 [02:01<00:52,  8.75s/it][A[A[A
+
+
+
+Subject 4 trials:  75%|███████▌  | 15/20 [02:09<00:42,  8.57s/it][A[A[A
+
+
+
+Subject 4 trials:  80%|████████  | 16/20 [02:17<00:33,  8.50s/it][A[A[A
+
+
+
+Subject 4 trials:  85%|████████▌ | 17/20 [02:26<00:25,  8.61s/it][A[A[A
+
+
+
+Subject 4 trials:  90%|█████████ | 18/20 [02:35<00:17,  8.60s/it][A[A[A
+
+
+
+Subject 4 trials:  95%|█████████▌| 19/20 [02:43<00:08,  8.56s/it][A[A[A
+
+
+
+Subject 4 trials: 100%|██████████| 20/20 [02:52<00:00,  8.62s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  14%|█▍        | 2/14 [05:33<33:34, 167.91s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 5 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 5 trials:   5%|▌         | 1/20 [00:09<03:01,  9.57s/it][A[A[A
+
+
+
+Subject 5 trials:  10%|█         | 2/20 [00:18<02:46,  9.28s/it][A[A[A
+
+
+
+Subject 5 trials:  15%|█▌        | 3/20 [00:27<02:36,  9.22s/it][A[A[A
+
+
+
+Subject 5 trials:  20%|██        | 4/20 [00:36<02:23,  8.96s/it][A[A[A
+
+
+
+Subject 5 trials:  25%|██▌       | 5/20 [00:45<02:13,  8.88s/it][A[A[A
+
+
+
+Subject 5 trials:  30%|███       | 6/20 [00:53<02:02,  8.73s/it][A[A[A
+
+
+
+Subject 5 trials:  35%|███▌      | 7/20 [01:02<01:53,  8.76s/it][A[A[A
+
+
+
+Subject 5 trials:  40%|████      | 8/20 [01:11<01:45,  8.80s/it][A[A[A
+
+
+
+Subject 5 trials:  45%|████▌     | 9/20 [01:20<01:37,  8.83s/it][A[A[A
+
+
+
+Subject 5 trials:  50%|█████     | 10/20 [01:28<01:28,  8.83s/it][A[A[A
+
+
+
+Subject 5 trials:  55%|█████▌    | 11/20 [01:37<01:19,  8.87s/it][A[A[A
+
+
+
+Subject 5 trials:  60%|██████    | 12/20 [01:46<01:10,  8.76s/it][A[A[A
+
+
+
+Subject 5 trials:  65%|██████▌   | 13/20 [01:54<01:00,  8.63s/it][A[A[A
+
+
+
+Subject 5 trials:  70%|███████   | 14/20 [02:04<00:52,  8.83s/it][A[A[A
+
+
+
+Subject 5 trials:  75%|███████▌  | 15/20 [02:12<00:44,  8.81s/it][A[A[A
+
+
+
+Subject 5 trials:  80%|████████  | 16/20 [02:22<00:35,  9.00s/it][A[A[A
+
+
+
+Subject 5 trials:  85%|████████▌ | 17/20 [02:31<00:27,  9.17s/it][A[A[A
+
+
+
+Subject 5 trials:  90%|█████████ | 18/20 [02:40<00:18,  9.09s/it][A[A[A
+
+
+
+Subject 5 trials:  95%|█████████▌| 19/20 [02:50<00:09,  9.26s/it][A[A[A
+
+
+
+Subject 5 trials: 100%|██████████| 20/20 [02:59<00:00,  9.28s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  21%|██▏       | 3/14 [08:33<31:46, 173.31s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 6 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 6 trials:   5%|▌         | 1/20 [00:09<03:07,  9.84s/it][A[A[A
+
+
+
+Subject 6 trials:  10%|█         | 2/20 [00:19<02:54,  9.71s/it][A[A[A
+
+
+
+Subject 6 trials:  15%|█▌        | 3/20 [00:28<02:42,  9.58s/it][A[A[A
+
+
+
+Subject 6 trials:  20%|██        | 4/20 [00:38<02:32,  9.51s/it][A[A[A
+
+
+
+Subject 6 trials:  25%|██▌       | 5/20 [00:47<02:20,  9.40s/it][A[A[A
+
+
+
+Subject 6 trials:  30%|███       | 6/20 [00:56<02:10,  9.33s/it][A[A[A
+
+
+
+Subject 6 trials:  35%|███▌      | 7/20 [01:06<02:02,  9.39s/it][A[A[A
+
+
+
+Subject 6 trials:  40%|████      | 8/20 [01:15<01:51,  9.28s/it][A[A[A
+
+
+
+Subject 6 trials:  45%|████▌     | 9/20 [01:24<01:41,  9.24s/it][A[A[A
+
+
+
+Subject 6 trials:  50%|█████     | 10/20 [01:33<01:31,  9.16s/it][A[A[A
+
+
+
+Subject 6 trials:  55%|█████▌    | 11/20 [01:42<01:22,  9.13s/it][A[A[A
+
+
+
+Subject 6 trials:  60%|██████    | 12/20 [01:51<01:13,  9.18s/it][A[A[A
+
+
+
+Subject 6 trials:  65%|██████▌   | 13/20 [02:00<01:02,  8.94s/it][A[A[A
+
+
+
+Subject 6 trials:  70%|███████   | 14/20 [02:08<00:51,  8.66s/it][A[A[A
+
+
+
+Subject 6 trials:  75%|███████▌  | 15/20 [02:16<00:42,  8.42s/it][A[A[A
+
+
+
+Subject 6 trials:  80%|████████  | 16/20 [02:23<00:33,  8.27s/it][A[A[A
+
+
+
+Subject 6 trials:  85%|████████▌ | 17/20 [02:32<00:24,  8.23s/it][A[A[A
+
+
+
+Subject 6 trials:  90%|█████████ | 18/20 [02:39<00:16,  8.10s/it][A[A[A
+
+
+
+Subject 6 trials:  95%|█████████▌| 19/20 [02:48<00:08,  8.17s/it][A[A[A
+
+
+
+Subject 6 trials: 100%|██████████| 20/20 [02:56<00:00,  8.30s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  29%|██▊       | 4/14 [11:30<29:06, 174.69s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 7 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 7 trials:   5%|▌         | 1/20 [00:13<04:22, 13.83s/it][A[A[A
+
+
+
+Subject 7 trials:  10%|█         | 2/20 [00:25<03:47, 12.65s/it][A[A[A
+
+
+
+Subject 7 trials:  15%|█▌        | 3/20 [00:38<03:37, 12.79s/it][A[A[A
+
+
+
+Subject 7 trials:  20%|██        | 4/20 [00:49<03:14, 12.16s/it][A[A[A
+
+
+
+Subject 7 trials:  25%|██▌       | 5/20 [01:01<02:59, 11.98s/it][A[A[A
+
+
+
+Subject 7 trials:  30%|███       | 6/20 [01:11<02:38, 11.33s/it][A[A[A
+
+
+
+Subject 7 trials:  35%|███▌      | 7/20 [01:21<02:20, 10.81s/it][A[A[A
+
+
+
+Subject 7 trials:  40%|████      | 8/20 [01:30<02:03, 10.27s/it][A[A[A
+
+
+
+Subject 7 trials:  45%|████▌     | 9/20 [01:39<01:50, 10.04s/it][A[A[A
+
+
+
+Subject 7 trials:  50%|█████     | 10/20 [01:50<01:40, 10.08s/it][A[A[A
+
+
+
+Subject 7 trials:  55%|█████▌    | 11/20 [01:59<01:29,  9.90s/it][A[A[A
+
+
+
+Subject 7 trials:  60%|██████    | 12/20 [02:09<01:18,  9.81s/it][A[A[A
+
+
+
+Subject 7 trials:  65%|██████▌   | 13/20 [02:18<01:08,  9.73s/it][A[A[A
+
+
+
+Subject 7 trials:  70%|███████   | 14/20 [02:28<00:58,  9.75s/it][A[A[A
+
+
+
+Subject 7 trials:  75%|███████▌  | 15/20 [02:38<00:48,  9.69s/it][A[A[A
+
+
+
+Subject 7 trials:  80%|████████  | 16/20 [02:46<00:37,  9.41s/it][A[A[A
+
+
+
+Subject 7 trials:  85%|████████▌ | 17/20 [02:56<00:28,  9.49s/it][A[A[A
+
+
+
+Subject 7 trials:  90%|█████████ | 18/20 [03:05<00:18,  9.46s/it][A[A[A
+
+
+
+Subject 7 trials:  95%|█████████▌| 19/20 [03:15<00:09,  9.49s/it][A[A[A
+
+
+
+Subject 7 trials: 100%|██████████| 20/20 [03:25<00:00,  9.64s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  36%|███▌      | 5/14 [14:55<27:52, 185.79s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 8 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 8 trials:   5%|▌         | 1/20 [00:10<03:12, 10.14s/it][A[A[A
+
+
+
+Subject 8 trials:  10%|█         | 2/20 [00:20<02:59,  9.98s/it][A[A[A
+
+
+
+Subject 8 trials:  15%|█▌        | 3/20 [00:29<02:45,  9.71s/it][A[A[A
+
+
+
+Subject 8 trials:  20%|██        | 4/20 [00:39<02:35,  9.70s/it][A[A[A
+
+
+
+Subject 8 trials:  25%|██▌       | 5/20 [00:48<02:26,  9.75s/it][A[A[A
+
+
+
+Subject 8 trials:  30%|███       | 6/20 [00:59<02:18,  9.90s/it][A[A[A
+
+
+
+Subject 8 trials:  35%|███▌      | 7/20 [01:08<02:06,  9.72s/it][A[A[A
+
+
+
+Subject 8 trials:  40%|████      | 8/20 [01:17<01:54,  9.58s/it][A[A[A
+
+
+
+Subject 8 trials:  45%|████▌     | 9/20 [01:27<01:45,  9.56s/it][A[A[A
+
+
+
+Subject 8 trials:  50%|█████     | 10/20 [01:36<01:33,  9.31s/it][A[A[A
+
+
+
+Subject 8 trials:  55%|█████▌    | 11/20 [01:44<01:21,  9.06s/it][A[A[A
+
+
+
+Subject 8 trials:  60%|██████    | 12/20 [01:52<01:11,  8.88s/it][A[A[A
+
+
+
+Subject 8 trials:  65%|██████▌   | 13/20 [02:01<01:02,  8.89s/it][A[A[A
+
+
+
+Subject 8 trials:  70%|███████   | 14/20 [02:10<00:53,  8.87s/it][A[A[A
+
+
+
+Subject 8 trials:  75%|███████▌  | 15/20 [02:19<00:44,  8.88s/it][A[A[A
+
+
+
+Subject 8 trials:  80%|████████  | 16/20 [02:29<00:36,  9.20s/it][A[A[A
+
+
+
+Subject 8 trials:  85%|████████▌ | 17/20 [02:39<00:28,  9.35s/it][A[A[A
+
+
+
+Subject 8 trials:  90%|█████████ | 18/20 [02:48<00:18,  9.27s/it][A[A[A
+
+
+
+Subject 8 trials:  95%|█████████▌| 19/20 [02:57<00:09,  9.25s/it][A[A[A
+
+
+
+Subject 8 trials: 100%|██████████| 20/20 [03:06<00:00,  9.15s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  43%|████▎     | 6/14 [18:02<24:48, 186.01s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 9 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 9 trials:   5%|▌         | 1/20 [00:08<02:46,  8.76s/it][A[A[A
+
+
+
+Subject 9 trials:  10%|█         | 2/20 [00:17<02:42,  9.01s/it][A[A[A
+
+
+
+Subject 9 trials:  15%|█▌        | 3/20 [00:26<02:25,  8.58s/it][A[A[A
+
+
+
+Subject 9 trials:  20%|██        | 4/20 [00:33<02:13,  8.35s/it][A[A[A
+
+
+
+Subject 9 trials:  25%|██▌       | 5/20 [00:43<02:10,  8.70s/it][A[A[A
+
+
+
+Subject 9 trials:  30%|███       | 6/20 [00:52<02:02,  8.74s/it][A[A[A
+
+
+
+Subject 9 trials:  35%|███▌      | 7/20 [01:00<01:52,  8.64s/it][A[A[A
+
+
+
+Subject 9 trials:  40%|████      | 8/20 [01:08<01:42,  8.56s/it][A[A[A
+
+
+
+Subject 9 trials:  45%|████▌     | 9/20 [01:18<01:36,  8.75s/it][A[A[A
+
+
+
+Subject 9 trials:  50%|█████     | 10/20 [01:26<01:26,  8.64s/it][A[A[A
+
+
+
+Subject 9 trials:  55%|█████▌    | 11/20 [01:35<01:18,  8.72s/it][A[A[A
+
+
+
+Subject 9 trials:  60%|██████    | 12/20 [01:44<01:10,  8.76s/it][A[A[A
+
+
+
+Subject 9 trials:  65%|██████▌   | 13/20 [01:53<01:02,  8.88s/it][A[A[A
+
+
+
+Subject 9 trials:  70%|███████   | 14/20 [02:01<00:52,  8.72s/it][A[A[A
+
+
+
+Subject 9 trials:  75%|███████▌  | 15/20 [02:10<00:43,  8.61s/it][A[A[A
+
+
+
+Subject 9 trials:  80%|████████  | 16/20 [02:18<00:34,  8.52s/it][A[A[A
+
+
+
+Subject 9 trials:  85%|████████▌ | 17/20 [02:26<00:25,  8.48s/it][A[A[A
+
+
+
+Subject 9 trials:  90%|█████████ | 18/20 [02:35<00:16,  8.44s/it][A[A[A
+
+
+
+Subject 9 trials:  95%|█████████▌| 19/20 [02:43<00:08,  8.42s/it][A[A[A
+
+
+
+Subject 9 trials: 100%|██████████| 20/20 [02:51<00:00,  8.41s/it][A[A[A
+
+
+
+                                                                 [A[A[A
+
+
+Training subjects:  50%|█████     | 7/14 [20:54<21:09, 181.42s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 10 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 10 trials:   5%|▌         | 1/20 [00:09<03:03,  9.66s/it][A[A[A
+
+
+
+Subject 10 trials:  10%|█         | 2/20 [00:18<02:42,  9.02s/it][A[A[A
+
+
+
+Subject 10 trials:  15%|█▌        | 3/20 [00:27<02:34,  9.06s/it][A[A[A
+
+
+
+Subject 10 trials:  20%|██        | 4/20 [00:35<02:22,  8.90s/it][A[A[A
+
+
+
+Subject 10 trials:  25%|██▌       | 5/20 [00:44<02:12,  8.84s/it][A[A[A
+
+
+
+Subject 10 trials:  30%|███       | 6/20 [00:53<02:01,  8.66s/it][A[A[A
+
+
+
+Subject 10 trials:  35%|███▌      | 7/20 [01:01<01:52,  8.67s/it][A[A[A
+
+
+
+Subject 10 trials:  40%|████      | 8/20 [01:10<01:43,  8.65s/it][A[A[A
+
+
+
+Subject 10 trials:  45%|████▌     | 9/20 [01:19<01:38,  8.91s/it][A[A[A
+
+
+
+Subject 10 trials:  50%|█████     | 10/20 [01:28<01:29,  8.99s/it][A[A[A
+
+
+
+Subject 10 trials:  55%|█████▌    | 11/20 [01:37<01:20,  8.96s/it][A[A[A
+
+
+
+Subject 10 trials:  60%|██████    | 12/20 [01:47<01:12,  9.10s/it][A[A[A
+
+
+
+Subject 10 trials:  65%|██████▌   | 13/20 [01:56<01:04,  9.18s/it][A[A[A
+
+
+
+Subject 10 trials:  70%|███████   | 14/20 [02:06<00:55,  9.23s/it][A[A[A
+
+
+
+Subject 10 trials:  75%|███████▌  | 15/20 [02:15<00:46,  9.28s/it][A[A[A
+
+
+
+Subject 10 trials:  80%|████████  | 16/20 [02:24<00:36,  9.18s/it][A[A[A
+
+
+
+Subject 10 trials:  85%|████████▌ | 17/20 [02:32<00:26,  8.86s/it][A[A[A
+
+
+
+Subject 10 trials:  90%|█████████ | 18/20 [02:40<00:17,  8.74s/it][A[A[A
+
+
+
+Subject 10 trials:  95%|█████████▌| 19/20 [02:49<00:08,  8.74s/it][A[A[A
+
+
+
+Subject 10 trials: 100%|██████████| 20/20 [02:58<00:00,  8.75s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  57%|█████▋    | 8/14 [23:52<18:02, 180.48s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 11 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 11 trials:   5%|▌         | 1/20 [00:08<02:41,  8.51s/it][A[A[A
+
+
+
+Subject 11 trials:  10%|█         | 2/20 [00:16<02:24,  8.02s/it][A[A[A
+
+
+
+Subject 11 trials:  15%|█▌        | 3/20 [00:23<02:12,  7.81s/it][A[A[A
+
+
+
+Subject 11 trials:  20%|██        | 4/20 [00:31<02:04,  7.76s/it][A[A[A
+
+
+
+Subject 11 trials:  25%|██▌       | 5/20 [00:39<01:58,  7.88s/it][A[A[A
+
+
+
+Subject 11 trials:  30%|███       | 6/20 [00:48<01:53,  8.14s/it][A[A[A
+
+
+
+Subject 11 trials:  35%|███▌      | 7/20 [00:56<01:44,  8.04s/it][A[A[A
+
+
+
+Subject 11 trials:  40%|████      | 8/20 [01:04<01:36,  8.04s/it][A[A[A
+
+
+
+Subject 11 trials:  45%|████▌     | 9/20 [01:11<01:27,  7.93s/it][A[A[A
+
+
+
+Subject 11 trials:  50%|█████     | 10/20 [01:19<01:18,  7.86s/it][A[A[A
+
+
+
+Subject 11 trials:  55%|█████▌    | 11/20 [01:27<01:10,  7.79s/it][A[A[A
+
+
+
+Subject 11 trials:  60%|██████    | 12/20 [01:35<01:02,  7.85s/it][A[A[A
+
+
+
+Subject 11 trials:  65%|██████▌   | 13/20 [01:44<00:57,  8.20s/it][A[A[A
+
+
+
+Subject 11 trials:  70%|███████   | 14/20 [01:53<00:50,  8.46s/it][A[A[A
+
+
+
+Subject 11 trials:  75%|███████▌  | 15/20 [02:02<00:43,  8.60s/it][A[A[A
+
+
+
+Subject 11 trials:  80%|████████  | 16/20 [02:10<00:34,  8.52s/it][A[A[A
+
+
+
+Subject 11 trials:  85%|████████▌ | 17/20 [02:18<00:25,  8.47s/it][A[A[A
+
+
+
+Subject 11 trials:  90%|█████████ | 18/20 [02:27<00:16,  8.44s/it][A[A[A
+
+
+
+Subject 11 trials:  95%|█████████▌| 19/20 [02:35<00:08,  8.40s/it][A[A[A
+
+
+
+Subject 11 trials: 100%|██████████| 20/20 [02:43<00:00,  8.44s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  64%|██████▍   | 9/14 [26:36<14:36, 175.31s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 12 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 12 trials:   5%|▌         | 1/20 [00:09<02:58,  9.41s/it][A[A[A
+
+
+
+Subject 12 trials:  10%|█         | 2/20 [00:18<02:48,  9.36s/it][A[A[A
+
+
+
+Subject 12 trials:  15%|█▌        | 3/20 [00:28<02:39,  9.39s/it][A[A[A
+
+
+
+Subject 12 trials:  20%|██        | 4/20 [00:37<02:28,  9.28s/it][A[A[A
+
+
+
+Subject 12 trials:  25%|██▌       | 5/20 [00:44<02:10,  8.71s/it][A[A[A
+
+
+
+Subject 12 trials:  30%|███       | 6/20 [00:52<01:57,  8.38s/it][A[A[A
+
+
+
+Subject 12 trials:  35%|███▌      | 7/20 [01:00<01:46,  8.17s/it][A[A[A
+
+
+
+Subject 12 trials:  40%|████      | 8/20 [01:08<01:35,  7.97s/it][A[A[A
+
+
+
+Subject 12 trials:  45%|████▌     | 9/20 [01:15<01:26,  7.89s/it][A[A[A
+
+
+
+Subject 12 trials:  50%|█████     | 10/20 [01:23<01:19,  7.96s/it][A[A[A
+
+
+
+Subject 12 trials:  55%|█████▌    | 11/20 [01:32<01:12,  8.05s/it][A[A[A
+
+
+
+Subject 12 trials:  60%|██████    | 12/20 [01:40<01:04,  8.05s/it][A[A[A
+
+
+
+Subject 12 trials:  65%|██████▌   | 13/20 [01:47<00:55,  7.95s/it][A[A[A
+
+
+
+Subject 12 trials:  70%|███████   | 14/20 [01:56<00:48,  8.13s/it][A[A[A
+
+
+
+Subject 12 trials:  75%|███████▌  | 15/20 [02:04<00:40,  8.05s/it][A[A[A
+
+
+
+Subject 12 trials:  80%|████████  | 16/20 [02:11<00:31,  7.93s/it][A[A[A
+
+
+
+Subject 12 trials:  85%|████████▌ | 17/20 [02:19<00:23,  7.81s/it][A[A[A
+
+
+
+Subject 12 trials:  90%|█████████ | 18/20 [02:27<00:15,  7.74s/it][A[A[A
+
+
+
+Subject 12 trials:  95%|█████████▌| 19/20 [02:34<00:07,  7.68s/it][A[A[A
+
+
+
+Subject 12 trials: 100%|██████████| 20/20 [02:42<00:00,  7.70s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  71%|███████▏  | 10/14 [29:19<11:25, 171.30s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 13 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 13 trials:   5%|▌         | 1/20 [00:09<03:06,  9.82s/it][A[A[A
+
+
+
+Subject 13 trials:  10%|█         | 2/20 [00:19<02:54,  9.71s/it][A[A[A
+
+
+
+Subject 13 trials:  15%|█▌        | 3/20 [00:28<02:40,  9.42s/it][A[A[A
+
+
+
+Subject 13 trials:  20%|██        | 4/20 [00:37<02:30,  9.40s/it][A[A[A
+
+
+
+Subject 13 trials:  25%|██▌       | 5/20 [00:46<02:17,  9.19s/it][A[A[A
+
+
+
+Subject 13 trials:  30%|███       | 6/20 [00:55<02:08,  9.15s/it][A[A[A
+
+
+
+Subject 13 trials:  35%|███▌      | 7/20 [01:04<01:58,  9.14s/it][A[A[A
+
+
+
+Subject 13 trials:  40%|████      | 8/20 [01:14<01:50,  9.20s/it][A[A[A
+
+
+
+Subject 13 trials:  45%|████▌     | 9/20 [01:23<01:41,  9.19s/it][A[A[A
+
+
+
+Subject 13 trials:  50%|█████     | 10/20 [01:32<01:32,  9.24s/it][A[A[A
+
+
+
+Subject 13 trials:  55%|█████▌    | 11/20 [01:41<01:23,  9.24s/it][A[A[A
+
+
+
+Subject 13 trials:  60%|██████    | 12/20 [01:51<01:13,  9.19s/it][A[A[A
+
+
+
+Subject 13 trials:  65%|██████▌   | 13/20 [01:59<01:02,  8.96s/it][A[A[A
+
+
+
+Subject 13 trials:  70%|███████   | 14/20 [02:07<00:52,  8.76s/it][A[A[A
+
+
+
+Subject 13 trials:  75%|███████▌  | 15/20 [02:17<00:45,  9.03s/it][A[A[A
+
+
+
+Subject 13 trials:  80%|████████  | 16/20 [02:26<00:36,  9.19s/it][A[A[A
+
+
+
+Subject 13 trials:  85%|████████▌ | 17/20 [02:35<00:27,  9.11s/it][A[A[A
+
+
+
+Subject 13 trials:  90%|█████████ | 18/20 [02:44<00:18,  9.02s/it][A[A[A
+
+
+
+Subject 13 trials:  95%|█████████▌| 19/20 [02:53<00:08,  8.83s/it][A[A[A
+
+
+
+Subject 13 trials: 100%|██████████| 20/20 [03:02<00:00,  8.88s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  79%|███████▊  | 11/14 [32:21<08:43, 174.62s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 14 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 14 trials:   5%|▌         | 1/20 [00:08<02:40,  8.43s/it][A[A[A
+
+
+
+Subject 14 trials:  10%|█         | 2/20 [00:17<02:34,  8.59s/it][A[A[A
+
+
+
+Subject 14 trials:  15%|█▌        | 3/20 [00:25<02:22,  8.39s/it][A[A[A
+
+
+
+Subject 14 trials:  20%|██        | 4/20 [00:33<02:10,  8.14s/it][A[A[A
+
+
+
+Subject 14 trials:  25%|██▌       | 5/20 [00:40<02:00,  8.05s/it][A[A[A
+
+
+
+Subject 14 trials:  30%|███       | 6/20 [00:49<01:54,  8.21s/it][A[A[A
+
+
+
+Subject 14 trials:  35%|███▌      | 7/20 [00:58<01:50,  8.52s/it][A[A[A
+
+
+
+Subject 14 trials:  40%|████      | 8/20 [01:07<01:42,  8.52s/it][A[A[A
+
+
+
+Subject 14 trials:  45%|████▌     | 9/20 [01:15<01:32,  8.45s/it][A[A[A
+
+
+
+Subject 14 trials:  50%|█████     | 10/20 [01:23<01:24,  8.43s/it][A[A[A
+
+
+
+Subject 14 trials:  55%|█████▌    | 11/20 [01:32<01:15,  8.40s/it][A[A[A
+
+
+
+Subject 14 trials:  60%|██████    | 12/20 [01:40<01:07,  8.45s/it][A[A[A
+
+
+
+Subject 14 trials:  65%|██████▌   | 13/20 [01:49<00:59,  8.51s/it][A[A[A
+
+
+
+Subject 14 trials:  70%|███████   | 14/20 [01:58<00:51,  8.57s/it][A[A[A
+
+
+
+Subject 14 trials:  75%|███████▌  | 15/20 [02:07<00:43,  8.68s/it][A[A[A
+
+
+
+Subject 14 trials:  80%|████████  | 16/20 [02:16<00:35,  8.79s/it][A[A[A
+
+
+
+Subject 14 trials:  85%|████████▌ | 17/20 [02:24<00:26,  8.71s/it][A[A[A
+
+
+
+Subject 14 trials:  90%|█████████ | 18/20 [02:32<00:16,  8.48s/it][A[A[A
+
+
+
+Subject 14 trials:  95%|█████████▌| 19/20 [02:40<00:08,  8.33s/it][A[A[A
+
+
+
+Subject 14 trials: 100%|██████████| 20/20 [02:48<00:00,  8.11s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  86%|████████▌ | 12/14 [35:09<05:45, 172.63s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 15 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 15 trials:   5%|▌         | 1/20 [00:07<02:26,  7.73s/it][A[A[A
+
+
+
+Subject 15 trials:  10%|█         | 2/20 [00:16<02:30,  8.36s/it][A[A[A
+
+
+
+Subject 15 trials:  15%|█▌        | 3/20 [00:25<02:25,  8.57s/it][A[A[A
+
+
+
+Subject 15 trials:  20%|██        | 4/20 [00:34<02:17,  8.62s/it][A[A[A
+
+
+
+Subject 15 trials:  25%|██▌       | 5/20 [00:42<02:10,  8.71s/it][A[A[A
+
+
+
+Subject 15 trials:  30%|███       | 6/20 [00:51<02:02,  8.76s/it][A[A[A
+
+
+
+Subject 15 trials:  35%|███▌      | 7/20 [00:59<01:51,  8.56s/it][A[A[A
+
+
+
+Subject 15 trials:  40%|████      | 8/20 [01:07<01:39,  8.33s/it][A[A[A
+
+
+
+Subject 15 trials:  45%|████▌     | 9/20 [01:15<01:29,  8.16s/it][A[A[A
+
+
+
+Subject 15 trials:  50%|█████     | 10/20 [01:23<01:20,  8.09s/it][A[A[A
+
+
+
+Subject 15 trials:  55%|█████▌    | 11/20 [01:32<01:14,  8.27s/it][A[A[A
+
+
+
+Subject 15 trials:  60%|██████    | 12/20 [01:39<01:04,  8.12s/it][A[A[A
+
+
+
+Subject 15 trials:  65%|██████▌   | 13/20 [01:47<00:55,  7.98s/it][A[A[A
+
+
+
+Subject 15 trials:  70%|███████   | 14/20 [01:55<00:47,  7.92s/it][A[A[A
+
+
+
+Subject 15 trials:  75%|███████▌  | 15/20 [02:03<00:39,  7.86s/it][A[A[A
+
+
+
+Subject 15 trials:  80%|████████  | 16/20 [02:10<00:31,  7.83s/it][A[A[A
+
+
+
+Subject 15 trials:  85%|████████▌ | 17/20 [02:18<00:23,  7.77s/it][A[A[A
+
+
+
+Subject 15 trials:  90%|█████████ | 18/20 [02:26<00:15,  7.89s/it][A[A[A
+
+
+
+Subject 15 trials:  95%|█████████▌| 19/20 [02:34<00:07,  7.83s/it][A[A[A
+
+
+
+Subject 15 trials: 100%|██████████| 20/20 [02:42<00:00,  7.94s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects:  93%|█████████▎| 13/14 [37:51<02:49, 169.57s/it][A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+
+
+
+Subject 16 trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A[A
+
+
+
+Subject 16 trials:   5%|▌         | 1/20 [00:08<02:45,  8.68s/it][A[A[A
+
+
+
+Subject 16 trials:  10%|█         | 2/20 [00:18<02:47,  9.33s/it][A[A[A
+
+
+
+Subject 16 trials:  15%|█▌        | 3/20 [00:27<02:36,  9.19s/it][A[A[A
+
+
+
+Subject 16 trials:  20%|██        | 4/20 [00:37<02:29,  9.32s/it][A[A[A
+
+
+
+Subject 16 trials:  25%|██▌       | 5/20 [00:46<02:19,  9.32s/it][A[A[A
+
+
+
+Subject 16 trials:  30%|███       | 6/20 [00:55<02:09,  9.28s/it][A[A[A
+
+
+
+Subject 16 trials:  35%|███▌      | 7/20 [01:04<01:58,  9.15s/it][A[A[A
+
+
+
+Subject 16 trials:  40%|████      | 8/20 [01:12<01:47,  8.94s/it][A[A[A
+
+
+
+Subject 16 trials:  45%|████▌     | 9/20 [01:22<01:38,  8.99s/it][A[A[A
+
+
+
+Subject 16 trials:  50%|█████     | 10/20 [01:30<01:27,  8.80s/it][A[A[A
+
+
+
+Subject 16 trials:  55%|█████▌    | 11/20 [01:39<01:20,  8.99s/it][A[A[A
+
+
+
+Subject 16 trials:  60%|██████    | 12/20 [01:48<01:12,  9.00s/it][A[A[A
+
+
+
+Subject 16 trials:  65%|██████▌   | 13/20 [01:58<01:04,  9.19s/it][A[A[A
+
+
+
+Subject 16 trials:  70%|███████   | 14/20 [02:07<00:55,  9.22s/it][A[A[A
+
+
+
+Subject 16 trials:  75%|███████▌  | 15/20 [02:16<00:45,  9.07s/it][A[A[A
+
+
+
+Subject 16 trials:  80%|████████  | 16/20 [02:25<00:35,  8.99s/it][A[A[A
+
+
+
+Subject 16 trials:  85%|████████▌ | 17/20 [02:34<00:27,  9.01s/it][A[A[A
+
+
+
+Subject 16 trials:  90%|█████████ | 18/20 [02:42<00:17,  8.89s/it][A[A[A
+
+
+
+Subject 16 trials:  95%|█████████▌| 19/20 [02:51<00:08,  8.80s/it][A[A[A
+
+
+
+Subject 16 trials: 100%|██████████| 20/20 [03:00<00:00,  8.76s/it][A[A[A
+
+
+
+                                                                  [A[A[A
+
+
+Training subjects: 100%|██████████| 14/14 [40:51<00:00, 172.78s/it][A[A
+
+
+                                                                   [A[AProcessed 25 windows for trial 1
+Processed 25 windows for trial 2
+Processed 25 windows for trial 3
+Processed 25 windows for trial 4
+Processed 25 windows for trial 5
+Processed 25 windows for trial 6
+Processed 25 windows for trial 7
+Processed 25 windows for trial 8
+Processed 25 windows for trial 9
+Processed 25 windows for trial 10
+Processed 25 windows for trial 11
+Processed 25 windows for trial 12
+Processed 25 windows for trial 13
+Processed 25 windows for trial 14
+Processed 25 windows for trial 15
+Processed 25 windows for trial 16
+Processed 25 windows for trial 17
+Processed 25 windows for trial 18
+Processed 25 windows for trial 19
+Processed 25 windows for trial 20
+
+Total training samples: 7000
+Training labels distribution: [5600 1400]
+
+Training SVM...
+Training data shape: (7000, 2)
+Training labels: (array([0, 1]), array([5600, 1400]))
+
+Training data correlation patterns:
+
+Label 0:
+Mean correlations: [0.29331108 0.29831935]
+Std correlations: [0.05351965 0.05470084]
+Number of samples: 5600
+
+Label 1:
+Mean correlations: [0.29623208 0.30004674]
+Std correlations: [0.04858119 0.04846476]
+Number of samples: 1400
+Class weights: {np.int64(0): np.float64(0.625), np.int64(1): np.float64(2.5)}
+SVM coefficients shape: (1, 2)
+SVM coefficients mean: 3.612680
+SVM intercept: -1.975342
+
+Training set metrics:
+Accuracy: 0.4031
+Precision: 0.2048
+Recall: 0.6886
+F1-score: 0.3158
+
+Confusion Matrix:
+[[1858 3742]
+ [ 436  964]]
+
+Processing test subject 2
+
+
+
+Test trials:   0%|          | 0/20 [00:00<?, ?it/s][A[A
+
+
+Test trials:   5%|▌         | 1/20 [00:10<03:20, 10.53s/it][A[A
+
+
+Test trials:  10%|█         | 2/20 [00:19<02:55,  9.77s/it][A[A
+
+
+Test trials:  15%|█▌        | 3/20 [00:28<02:40,  9.46s/it][A[A
+
+
+Test trials:  20%|██        | 4/20 [00:37<02:28,  9.27s/it][A[A
+
+
+Test trials:  25%|██▌       | 5/20 [00:47<02:18,  9.23s/it][A[A
+
+
+Test trials:  30%|███       | 6/20 [00:55<02:07,  9.10s/it][A[A
+
+
+Test trials:  35%|███▌      | 7/20 [01:05<01:58,  9.12s/it][A[A
+
+
+Test trials:  40%|████      | 8/20 [01:13<01:48,  9.08s/it][A[A
+
+
+Test trials:  45%|████▌     | 9/20 [01:22<01:36,  8.79s/it][A[A
+
+
+Test trials:  50%|█████     | 10/20 [01:30<01:27,  8.72s/it][A[A
+
+
+Test trials:  55%|█████▌    | 11/20 [01:39<01:18,  8.76s/it][A[A
+
+
+Test trials:  60%|██████    | 12/20 [01:48<01:11,  8.93s/it][A[A
+
+
+Test trials:  65%|██████▌   | 13/20 [01:57<01:01,  8.86s/it][A[A
+
+
+Test trials:  70%|███████   | 14/20 [02:06<00:52,  8.80s/it][A[A
+
+
+Test trials:  75%|███████▌  | 15/20 [02:14<00:43,  8.73s/it][A[A
+
+
+Test trials:  80%|████████  | 16/20 [02:22<00:33,  8.46s/it][A[A
+
+
+Test trials:  85%|████████▌ | 17/20 [02:30<00:25,  8.41s/it][A[A
+
+
+Test trials:  90%|█████████ | 18/20 [02:39<00:16,  8.41s/it][A[A
+
+
+Test trials:  95%|█████████▌| 19/20 [02:48<00:08,  8.62s/it][A[A
+
+
+Test trials: 100%|██████████| 20/20 [02:57<00:00,  8.64s/it][A[A
+
+
+                                                            [A[A
+Experiments: 100%|██████████| 2/2 [3:10:20<00:00, 5633.14s/it]  
+Experiments: 100%|██████████| 2/2 [3:10:20<00:00, 5710.30s/it]
+
+Window 1 debug:
+Correlations: [0.36808516 0.36235606]
+Probabilities: [0.80506454 0.19493546]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.36727047 0.35775818]
+Probabilities: [0.80494823 0.19505177]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.38058206 0.38748609]
+Probabilities: [0.80613567 0.19386433]
+Prediction: 1, True: 0
+
+Trial 1 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.32945525 0.37661859]
+Probabilities: [0.80317822 0.19682178]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30543066 0.38629852]
+Probabilities: [0.80201098 0.19798902]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.35250808 0.41660755]
+Probabilities: [0.80506549 0.19493451]
+Prediction: 1, True: 0
+
+Trial 2 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.30981652 0.28927197]
+Probabilities: [0.80071336 0.19928664]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.3423445  0.31511051]
+Probabilities: [0.8029154 0.1970846]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.34198919 0.31945679]
+Probabilities: [0.80296447 0.19703553]
+Prediction: 1, True: 0
+
+Trial 3 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.31515167 0.3090123 ]
+Probabilities: [0.80132196 0.19867804]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.31064973 0.31431284]
+Probabilities: [0.80115746 0.19884254]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3443011  0.33904314]
+Probabilities: [0.80339989 0.19660011]
+Prediction: 1, True: 0
+
+Trial 4 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.35345822 0.33845888]
+Probabilities: [0.80389186 0.19610814]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.3398526  0.37818158]
+Probabilities: [0.80377223 0.19622777]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.35193596 0.38560686]
+Probabilities: [0.80454881 0.19545119]
+Prediction: 1, True: 1
+
+Trial 5 accuracy: 1.0000 (25/25)
+
+Window 1 debug:
+Correlations: [0.33165611 0.35352799]
+Probabilities: [0.80293487 0.19706513]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.3109302  0.35659077]
+Probabilities: [0.80184351 0.19815649]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.33125074 0.35665293]
+Probabilities: [0.80296192 0.19703808]
+Prediction: 1, True: 1
+
+Trial 6 accuracy: 1.0000 (25/25)
+
+Window 1 debug:
+Correlations: [0.33800244 0.33157215]
+Probabilities: [0.8029368 0.1970632]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.3834317 0.3692779]
+Probabilities: [0.8060064 0.1939936]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.38939856 0.38065095]
+Probabilities: [0.80650678 0.19349322]
+Prediction: 1, True: 1
+
+Trial 7 accuracy: 1.0000 (25/25)
+
+Window 1 debug:
+Correlations: [0.29085314 0.32797918]
+Probabilities: [0.80027928 0.19972072]
+Prediction: 1, True: 1
+
+Window 2 debug:
+Correlations: [0.28922177 0.32641956]
+Probabilities: [0.80016397 0.19983603]
+Prediction: 1, True: 1
+
+Window 3 debug:
+Correlations: [0.35352098 0.36713911]
+Probabilities: [0.80434565 0.19565435]
+Prediction: 1, True: 1
+
+Trial 8 accuracy: 1.0000 (25/25)
+
+Window 1 debug:
+Correlations: [0.31900306 0.30075022]
+Probabilities: [0.80140348 0.19859652]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30812963 0.28531068]
+Probabilities: [0.80055694 0.19944306]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31375679 0.28995801]
+Probabilities: [0.80094224 0.19905776]
+Prediction: 1, True: 0
+
+Trial 9 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.31195658 0.36673824]
+Probabilities: [0.80206073 0.19793927]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29984622 0.35677089]
+Probabilities: [0.80123486 0.19876514]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31996019 0.39242782]
+Probabilities: [0.80290665 0.19709335]
+Prediction: 1, True: 0
+
+Trial 10 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.26093544 0.25267012]
+Probabilities: [0.79740547 0.20259453]
+Prediction: 0, True: 0
+
+Window 2 debug:
+Correlations: [0.3027806  0.29955179]
+Probabilities: [0.80048741 0.19951259]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31557484 0.30018523]
+Probabilities: [0.8012052 0.1987948]
+Prediction: 1, True: 0
+
+Trial 11 accuracy: 0.2000 (5/25)
+
+Window 1 debug:
+Correlations: [0.27647512 0.30066634]
+Probabilities: [0.79904419 0.20095581]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.29043822 0.30919483]
+Probabilities: [0.79995677 0.20004323]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.31951313 0.33036574]
+Probabilities: [0.80190107 0.19809893]
+Prediction: 1, True: 0
+
+Trial 12 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.30286607 0.29316087]
+Probabilities: [0.80039037 0.19960963]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30085686 0.33727822]
+Probabilities: [0.80098107 0.19901893]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.30009725 0.370071  ]
+Probabilities: [0.8014598 0.1985402]
+Prediction: 1, True: 0
+
+Trial 13 accuracy: 0.0400 (1/25)
+
+Window 1 debug:
+Correlations: [0.31609209 0.38358969]
+Probabilities: [0.80255468 0.19744532]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.30211347 0.34268583]
+Probabilities: [0.80113644 0.19886356]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.30305273 0.33824691]
+Probabilities: [0.80111784 0.19888216]
+Prediction: 1, True: 0
+
+Trial 14 accuracy: 0.1600 (4/25)
+
+Window 1 debug:
+Correlations: [0.3103254  0.31672632]
+Probabilities: [0.80117787 0.19882213]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.36287959 0.36513937]
+Probabilities: [0.80482464 0.19517536]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.37133702 0.36639323]
+Probabilities: [0.80530459 0.19469541]
+Prediction: 1, True: 0
+
+Trial 15 accuracy: 0.1600 (4/25)
+
+Window 1 debug:
+Correlations: [0.27240344 0.3174986 ]
+Probabilities: [0.79908688 0.20091312]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.28018904 0.34662199]
+Probabilities: [0.79998503 0.20001497]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3331984  0.38300504]
+Probabilities: [0.80348392 0.19651608]
+Prediction: 1, True: 0
+
+Trial 16 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.32946749 0.3057679 ]
+Probabilities: [0.8020599 0.1979401]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.31985713 0.30456623]
+Probabilities: [0.80151115 0.19848885]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.30909454 0.30915977]
+Probabilities: [0.80098964 0.19901036]
+Prediction: 1, True: 0
+
+Trial 17 accuracy: 0.0000 (0/25)
+
+Window 1 debug:
+Correlations: [0.32926429 0.35113127]
+Probabilities: [0.80276575 0.19723425]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.31165849 0.32411544]
+Probabilities: [0.80136879 0.19863121]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.3455911  0.37413585]
+Probabilities: [0.80402241 0.19597759]
+Prediction: 1, True: 0
+
+Trial 18 accuracy: 0.0800 (2/25)
+
+Window 1 debug:
+Correlations: [0.29131917 0.29144089]
+Probabilities: [0.79972232 0.20027768]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.26595034 0.27181938]
+Probabilities: [0.79799423 0.20200577]
+Prediction: 0, True: 0
+
+Window 3 debug:
+Correlations: [0.27405005 0.27516313]
+Probabilities: [0.79850032 0.20149968]
+Prediction: 1, True: 0
+
+Trial 19 accuracy: 0.2800 (7/25)
+
+Window 1 debug:
+Correlations: [0.27729091 0.34855931]
+Probabilities: [0.79985507 0.20014493]
+Prediction: 1, True: 0
+
+Window 2 debug:
+Correlations: [0.283066   0.35572422]
+Probabilities: [0.80028971 0.19971029]
+Prediction: 1, True: 0
+
+Window 3 debug:
+Correlations: [0.33176622 0.35434703]
+Probabilities: [0.80295383 0.19704617]
+Prediction: 1, True: 0
+
+Trial 20 accuracy: 0.0000 (0/25)
+
+Overall accuracy: 0.2460 (123/500)
+
+Number of results collected: 3920
