@@ -1,0 +1,19 @@
+Data Statistics Report
+=====================
+
+EEG Data Shape: (16, 20, 3968, 64)
+Labels Shape: (16, 20)
+Sampling Rate: 32 Hz
+Time per trial: 124.00 seconds
+
+EEG Data Statistics:
+Mean: 0.0012
+Std: 8.9483
+Min: -6121.7795
+Max: 6009.3997
+
+Label Information:
+Unique labels: [1 2]
+Label distribution: [  0 256  64]
+Percentage of left attention (0): 0.00%
+Percentage of right attention (1): 80.00%
