@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Attention Decoding Pipeline
 
 This repository contains a comprehensive pipeline for decoding auditory attention from EEG data using machine learning techniques. The pipeline includes data preprocessing, feature extraction, model training, and evaluation components.
@@ -85,3 +86,7 @@ Attention_Decoding_Pipeline/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ``` 
+=======
+# MTech-Project
+EEG based attention decoding
+>>>>>>> 687c47edb19ec14c19d7e0e537dc41d13f92666d
